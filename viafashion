@@ -1,0 +1,142 @@
+{
+  "HorizonLayout": [
+    {
+      "radius": 8.8,
+      "isBlur": false,
+      "layout": "bannerImage",
+      "height": 0.23,
+      "items": [
+        {
+          "category": "1394",
+          "image": "https://theshopplus.in/wp-content/uploads/2021/06/app_slider2.jpg",
+          "padding": 7.6
+        },
+        {
+          "padding": 7.6,
+          "category": null,
+          "image": "https://theshopplus.in/wp-content/uploads/2021/06/app_slider1.jpg"
+        }
+      ],
+      "marginRight": 0,
+      "marginBottom": 0,
+      "marginTop": 12,
+      "marginLeft": 0,
+      "autoPlay": true,
+      "showBackground": true,
+      "isSlider": true,
+      "design": "default",
+      "fit": "cover",
+      "intervalTime": 3,
+      "upHeight": 0
+    },
+    {
+      "layout": "twoColumn",
+      "name": "Featured Product",
+      "category": "1394",
+      "featured": true,
+      "isSnapping": true
+    },
+    {
+      "layout": "card",
+      "isSnapping": true,
+      "category": "1394",
+      "name": "Trending Stole"
+    },
+    {
+      "name": "Trending Shrug",
+      "category": "1394",
+      "layout": "card",
+      "isSnapping": false
+    },
+    {
+      "name": "Recent View",
+      "isSnapping": false,
+      "layout": "recentView"
+    }
+  ],
+  "Setting": {
+    "MainColor": "#C62828",
+    "ProductListLayout": "list",
+    "StickyHeader": true,
+    "ProductDetail": "simpleType"
+  },
+  "TabBar": [
+    {
+      "icon": "assets/icons/tabs/icon-home.png",
+      "layout": "home",
+      "pos": 100,
+      "key": "o3ggnga8sn"
+    },
+    {
+      "layout": "category",
+      "pos": 200,
+      "categories": [
+        "1394",
+        "1789",
+        "1790"
+      ],
+      "images": [
+        "instagram",
+        "activity",
+        "map",
+        "package",
+        "camera",
+        "briefcase",
+        "chrome",
+        "download",
+        "compass"
+      ],
+      "key": "o3ggnga8sn",
+      "icon": "assets/icons/tabs/icon-category.png",
+      "categoryLayout": "card"
+    },
+    {
+      "label": null,
+      "key": "o3ggnga8sn",
+      "pos": 300,
+      "layout": "cart",
+      "icon": "assets/icons/tabs/icon-cart2.png"
+    },
+    {
+      "background": "https://theshopplus.in/wp-content/uploads/2021/01/settings-medium.jpg",
+      "layout": "profile",
+      "pos": 400,
+      "icon": "assets/icons/tabs/icon-user.png",
+      "settings": [
+        "chat",
+        "wishlist",
+        "notifications",
+        "language",
+        "darkTheme",
+        "order",
+        "rating"
+         "privacy",
+        "about"
+      ],
+      "key": "o3ggnga8sn"
+    }
+  ],
+  "Drawer": {
+    "logo": "assets/images/logo.png",
+    "items": [
+      {
+        "show": true,
+        "type": "home"
+      },
+      {
+        "show": true,
+        "type": "blog"
+      },
+      {
+        "type": "login",
+        "show": true
+      },
+      {
+        "show": false,
+        "type": "category"
+      }
+    ]
+  },
+  "Version": 3,
+  "Datetime": "21:16:34 - Thu 15 Jul"
+}
