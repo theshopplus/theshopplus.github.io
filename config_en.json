@@ -1,313 +1,217 @@
 {
-"HorizonLayout":[
-{
-"height":0.23,
-"title":"",
-"fontSize":20,
-"padding":20,
-"layout":"header_text",
-"showSearch":false,
-"isSafeArea":true
-},
-{
-"isSafeArea":false,
-"shadow":10,
-"padding":20,
-"layout":"header_search",
-"text":"Search for a product",
-"height":85
-},
-{
-"layout":"category",
-"type":"image",
-"wrap":false,
-"size":1.0,
-"radius":50.0,
-"items":[
-{
-"category":1242,
-"image":"https://stag2.theshopplus.in/wp-content/uploads/2020/06/Notebook-set-image-medium.jpg",
-"colors":["#333333"],
-"originalColor":true,
-"showText":true
-},
-{
-"category":1661,
-"image":"https://stag2.theshopplus.in/wp-content/uploads/2020/08/boat-medium.jpg",
-"colors":["#333333"],
-"originalColor":true,
-"showText":true
-},
-{
-"category":359,
-"image":"https://stag2.theshopplus.in/wp-content/uploads/2020/05/tcl-4k-tv-medium.jpg",
-"colors":["#333333"],
-"originalColor":true,
-"showText":true
-},
-{
-"category":335,
-"image":"https://stag2.theshopplus.in/wp-content/uploads/2020/05/Lenovo-X1-Carbon-medium.jpg",
-"colors":["#333333"],
-"originalColor":true,
-"showText":true
-},
-{
-"category":1386,
-"image":"https://stag2.theshopplus.in/wp-content/uploads/2020/07/vha-1-medium.jpg",
-"colors":["#333333"],
-"originalColor":true,
-"showText":true
-},
-{
-"category":1363,
-"image":"https://stag2.theshopplus.in/wp-content/uploads/2020/07/stole-20-3-medium.jpg",
-"colors":["#333333"],
-"originalColor":true,
-"showText":true
+  "HorizonLayout": [
+    {
+      "marginLeft": 0,
+      "fit": "cover",
+      "layout": "bannerImage",
+      "design": "default",
+      "marginRight": 0,
+      "height": 0.23,
+      "upHeight": 0,
+      "marginTop": 12,
+      "intervalTime": 3,
+      "items": [
+        {
+          "image": "https://theshopplus.in/wp-content/uploads/2021/06/app_slider2.jpg",
+          "category": "1394",
+          "padding": 7.6
+        },
+       
+      ],
+      "autoPlay": true,
+      "isBlur": false,
+      "marginBottom": 0,
+      "radius": 8.8,
+      "isSlider": true,
+      "showBackground": true
+    },
+    {
+      "category": "620",
+      "isSnapping": true,
+      "layout": "twoColumn",
+      "featured": true,
+      "name": "Featured Products"
+    },
+    {
+      "name": "Trending Rings",
+      "layout": "card",
+      "isSnapping": true,
+      "category": "1802"
+    },
+    {
+      "category": "1803",
+      "isSnapping": false,
+      "layout": "card",
+      "name": "Trending Neklace"
+    },
+    {
+      "layout": "recentView",
+      "name": "Recent View",
+      "isSnapping": false
+    }
+  ],
+  "Setting": {
+    "ProductDetail": "simpleType",
+    "ProductListLayout": "list",
+    "TabBarConfig": {
+      "isSafeArea": true,
+      "color": null,
+      "colorCart": null,
+      "colorIcon": "ff7a7b7f",
+      "colorActiveIcon": "ffff672d",
+      "iconSize": 22.968195913186673,
+      "indicatorStyle": "material",
+      "showFloatingClip": false,
+      "showFloating": true,
+      "radiusTopLeft": 0.0,
+      "radiusTopRight": 0.0,
+      "radiusBottomLeft": 0.0,
+      "radiusBottomRight": 0.0,
+      "paddingLeft": 0.0,
+      "paddingRight": 0.0,
+      "paddingBottom": 0.0,
+      "paddingTop": 0.0,
+      "marginTop": 0.0,
+      "marginBottom": 0.0,
+      "marginLeft": 0.0,
+      "marginRight": 0.0,
+      "TabBarIndicator": {
+        "height": null,
+        "tabPosition": "bottom",
+        "topRightRadius": null,
+        "topLeftRadius": null,
+        "bottomRightRadius": null,
+        "bottomLeftRadius": null,
+        "color": null,
+        "horizontalPadding": null,
+        "verticalPadding": null,
+        "strokeWidth": null,
+        "radius": null,
+        "distanceFromCenter": null,
+        "paintingStyle": "fill"
+      },
+      "TabBarFloating": {
+        "position": 2,
+        "radius": null,
+        "color": "ffd13a3f",
+        "location": "centerDocked",
+        "width": null,
+        "height": null,
+        "elevation": null,
+        "floatingType": "rectangle"
+      }
+    },
+    "MainColor": "#e8c25b",
+    "StickyHeader": true
+  },
+  "TabBar": [
+    {
+      "layout": "home",
+      "icon": "assets/icons/tabs/icon-home.png",
+      "fontFamily": null,
+      "label": null,
+      "pos": 100,
+      "key": "vb1o2m0st5"
+    },
+    {
+      "layout": "category",
+      "icon": "circle_grid_3x3",
+      "fontFamily": "CupertinoIcons",
+      "label": null,
+      "pos": 200,
+      "categoryLayout": "card",
+      "categories": [
+        "1804",
+        "1803",
+        "1802",
+        "620"
+      ],
+      "images": null,
+      "key": "vb1o2m0st5"
+    },
+    {
+      "key": "vb1o2m0st5",
+      "layout": "cart",
+      "icon": "assets/icons/tabs/icon-cart2.png",
+      "fontFamily": null,
+      "label": null,
+      "pos": 300
+    },
+    {
+      "layout": "profile",
+      "icon": "assets/icons/tabs/icon-user.png",
+      "fontFamily": null,
+      "label": null,
+      "pos": 400,
+      "settings": [
+        "wishlist",
+        "notifications",
+        "language",
+        "darkTheme",
+        "order",
+        "rating"
+      ],
+      "background": "https://theshopplus.in/wp-content/uploads/2021/01/settings-medium.jpg",
+      "key": "vb1o2m0st5"
+    },
+    {
+      "layout": "static",
+      "icon": "book_solid",
+      "fontFamily": "CupertinoIcons",
+      "label": null,
+      "pos": 500,
+      "data": {
+        "id": 1,
+        "container": {
+          "height": 0.5,
+          "image": {
+            "height": 0.5,
+            "width": 1.0,
+            "url": "https://img.freepik.com/free-vector/fashion-accessories-composition_1284-34330.jpg",
+            "align": {
+              "x": 1.0,
+              "y": 1.0
+            }
+          },
+          "header": {
+            "align": {
+              "x": -1.0,
+              "y": 0.8
+            },
+            "padding": {
+              "horizontal": 20.0,
+              "vertical": 10.0
+            },
+            "color": "#FFFFFF",
+            "background": "#000000",
+            "text": "About US"
+          }
+        },
+        "subHeader": "Welcome to Via Fashion",
+        "description": "Your one stop destination for Trending Fashion Accessories.\nWe offer wide range of affordable clothing accessories that too in limited editions.\n"
+      },
+      "key": "vb1o2m0st5"
+    }
+  ],
+  "Drawer": {
+    "logo": "assets/images/logo.png",
+    "items": [
+      {
+        "type": "home",
+        "show": true
+      },
+      {
+        "type": "blog",
+        "show": false
+      },
+      {
+        "show": true,
+        "type": "login"
+      },
+      {
+        "type": "category",
+        "show": false
+      }
+    ]
+  }
 }
-],
-"line":false
-},
-{
-"name":"Books & Stationary",
-"layout":"threeColumn",
-"isSnapping":true,
-"category":350
-},
-{
-"name":"Trending Mobiles",
-"layout":"threeColumn",
-"isSnapping":true,
-"category":254
-},
-{
-"name":"Clothing & Accessories",
-"layout":"threeColumn",
-"isSnapping":false,
-"category":1363
-},
-{
-"name":"Recent view",
-"layout":"recentView",
-"isSnapping":false
-}
-],
-"Setting":{
-"MainColor":"#DD2400",
-"ProductListLayout":"list",
-"StickyHeader":true,
-"ProductDetail":"simpleType"
-},
-"TabBar":[
-{
-"layout":"home",
-"icon":"assets/icons/tabs/icon-home.png",
-"pos":100
-},
-{
-"images":["briefcase",
-"chrome",
-"download",
-"compass",
-"instagram",
-"activity",
-"map",
-"package",
-"camera",
-"briefcase",
-"chrome",
-"download",
-"compass",
-"instagram",
-"activity",
-"map",
-"package",
-"camera",
-"briefcase",
-"chrome",
-"download",
-"compass",
-"instagram",
-"activity",
-"map",
-"package",
-"camera",
-"briefcase",
-"chrome",
-"download",
-"compass",
-"instagram",
-"activity",
-"map",
-"package",
-"camera",
-"briefcase",
-"chrome",
-"download",
-"compass",
-"instagram",
-"activity",
-"map",
-"package",
-"camera",
-"briefcase",
-"chrome",
-"download",
-"compass",
-"instagram",
-"activity",
-"map",
-"package",
-"camera",
-"briefcase",
-"chrome",
-"download",
-"compass",
-"instagram",
-"activity",
-"map",
-"package",
-"camera",
-"briefcase",
-"chrome",
-"download",
-"compass",
-"instagram",
-"activity",
-"map",
-"package",
-"camera",
-"briefcase",
-"chrome",
-"download",
-"compass",
-"instagram",
-"activity",
-"map",
-"package",
-"camera",
-"briefcase",
-"chrome",
-"download",
-"compass",
-"instagram",
-"activity",
-"map",
-"package",
-"camera",
-"briefcase",
-"chrome",
-"download",
-"compass",
-"instagram",
-"activity",
-"map",
-"package",
-"camera",
-"briefcase",
-"chrome",
-"download",
-"compass",
-"instagram",
-"activity",
-"map",
-"package",
-"camera",
-"briefcase",
-"chrome",
-"download",
-"compass"],
-"categories":["362",
-"333",
-"250",
-"224",
-"186",
-"350",
-"194",
-"1363",
-"282",
-"753",
-"202",
-"1465",
-"1553",
-"297",
-"359",
-"188",
-"222",
-"620",
-"1386",
-"335",
-"1661",
-"254",
-"1562",
-"231",
-"1590",
-"237",
-"1660",
-"642",
-"1714",
-"1410",
-"228",
-"217",
-"330"],
-"pos":200,
-"icon":"assets/icons/tabs/icon-category.png",
-"layout":"vendors",
-"categoryLayout":"card",
-"showChat":true
-},
-{
-"layout":"search",
-"pos":300,
-"icon":"assets/icons/tabs/icon-search.png",
-"showChat":false
-},
-{
-"icon":"assets/icons/tabs/icon-cart2.png",
-"layout":"cart",
-"pos":400
-},
-{
-"settings":["products",
-"chat",
-"wishlist",
-"notifications",
-"darkTheme",
-"order",
-"rating",
-"privacy",
-"about"],
-"icon":"assets/icons/tabs/icon-user.png",
-"showChat":true,
-"layout":"profile",
-"pos":500,
-"background":"https://stag2.theshopplus.in/wp-content/uploads/2021/01/settings-medium.jpg"
-}
-],
-"Drawer":{
-"logo":"https://stag2.theshopplus.in/wp-content/uploads/2020/03/web-logo-medium.png",
-"items":[
-{
-"show":true,
-"type":"home"
-},
-{
-"type":"blog",
-"show":false
-},
-{
-"show":true,
-"type":"login"
-},
-{
-"show":true,
-"type":"category"
-}
-]
-},
-"Background":{
-"color":"#1A237E",
-"image":"https://wclovers.mstore.io/wp-content/uploads/2018/07/card-medium.png",
-"height":0.38,
-"type":null}}
