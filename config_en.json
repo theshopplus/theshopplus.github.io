@@ -1,10 +1,5 @@
 {
-	"HorizonLayout": [{
-		"showLogo": false,
-		"showMenu": false,
-		"showSearch": false,
-		"layout": "logo"
-	}, {
+	"HorizonLayout": [ {
 		"layout": "category",
 		"type": "icon",
 		"wrap": false,
