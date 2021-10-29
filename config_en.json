@@ -282,7 +282,7 @@
 			"show": false
 		}, {
 			"type": "categories",
-			"show": true
+			"show": false
 		}, {
 			"type": "cart",
 			"show": false
