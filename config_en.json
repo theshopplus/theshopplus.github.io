@@ -82,11 +82,15 @@
 		"layout": "bannerImage",
 		"marginBottom": 0,
 		"marginLeft": 10,
-		"items": [{
-			"image": "https://user-images.githubusercontent.com/1459805/59846820-12672e80-938b-11e9-8fa6-b331b7db331d.png",
-			"padding": 5,
-			"category": null
-		}],
+		"items": [
+			
+			{
+			"image":"https://theshopplus.in/wp-content/uploads/2021/10/Live-Gold-Rates-tiny.png",
+				"padding":5.0,
+				"url":"http://hbjodhpur.com"
+		}
+		
+		],
 		"fit": "cover"
 	}, {
 		"marginLeft": 10,
@@ -218,7 +222,27 @@
 		"background": "https://theshopplus.in/wp-content/uploads/2021/01/settings-medium.jpg",
 		"fontFamily": "CupertinoIcons",
 		"pos": 400,
-		"settings": ["wishlist", "notifications", "language", "darkTheme", "order", "rating"],
+		"settings": ["wishlist", "notifications", "language", "darkTheme", "order", "rating","title-58nknb8tey","web-zk79n0hu39"],
+		"background":null,
+		"subGeneralSetting":{
+		"title-58nknb8tey":{
+		"title":"Payment",
+		"enableDivider":true,
+		"fontSize":14.0,
+		"titleColor":null,
+		"verticalPadding":{
+		"x":15.0,
+		"y":15.0}
+		},
+		"web-zk79n0hu39":{
+		"webUrl":"https://docs.google.com/document/d/e/2PACX-1vTKpcVl6swEkhkJvJ2dF4Aq7vVRgtc8vkwCwL0fbxAMcF10TInAk6P1ltanPHKFRU5lYT4GCrenO2-G/pub",
+		"webViewMode":true,
+		"requiredLogin":false,
+		"icon":"account_balance_outlined",
+		"iconFontFamily":"MaterialIcons",
+		"title":"Bank Details"}}
+		},
+		    
 		"label": null,
 		"layout": "profile",
 		"icon": "person"
