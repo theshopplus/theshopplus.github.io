@@ -219,7 +219,12 @@
 	"label":null,
 	"pos":200,
 	"categoryLayout":"card",
-	"categories":null,
+	"categories":[
+        "1804",
+        "1803",
+        "1802",
+        "620"
+      ],
 	"images":null,
 	"key":"gqi6btk002"
 	},
