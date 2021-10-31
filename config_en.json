@@ -302,7 +302,7 @@
 			"show": true
 		}, {
 			"type": "web",
-			"show": true
+			"show": false
 		}]
 	},
 	"AppBar": {
