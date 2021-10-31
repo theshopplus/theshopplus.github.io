@@ -287,10 +287,10 @@
 			"show": false
 		}, {
 			"type": "login",
-			"show": true
+			"show": false
 		}, {
 			"type": "category",
-			"show": false
+			"show": true
 		}, {
 			"type": "categories",
 			"show": false
@@ -302,7 +302,7 @@
 			"show": true
 		}, {
 			"type": "web",
-			"show": false
+			"show": true
 		}]
 	},
 	"AppBar": {
