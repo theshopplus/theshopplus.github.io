@@ -73,21 +73,7 @@
 		"autoPlay": false,
 		"radius": 2,
 		"layout": "bannerImage"
-	}, {
-		"layout": "bannerImage",
-		"isSlider": false,
-		"marginTop": 0.0,
-		"marginBottom": 0.0,
-		"marginLeft": 10.0,
-		"marginRight": 10.0,
-		"height": 0.2,
-		"fit": "cover",
-		"items": [{
-			"image": "https://theshopplus.in/wp-content/uploads/2021/10/Live-Gold-Rates-tiny.png",
-			"padding": 5.0,
-			"url": "http://hbjodhpur.com/"
-		}]
-	}, {
+	},  {
 		"marginLeft": 10,
 		"fit": "cover",
 		"height": 0.25,
@@ -128,7 +114,7 @@
 		"showCartIconColor": false,
 		"showCartIcon": true,
 		"enableBottomAddToCart": false,
-		"category": "1803",
+		"category": "1806",
 		"tag": null
 	}],
 	"Setting": {
@@ -200,7 +186,7 @@
 		"label": null,
 		"pos": 200,
 		"categoryLayout": "card",
-		"categories": ["1804", "1803", "1802", "620"],
+		"categories": ["1806", "1807", "1808", "1809", "1810"],
 		"images": null,
 		"key": "zsysipw2kn"
 	}, {
@@ -231,7 +217,7 @@
 				}
 			},
 			"post-54e1t0o95z": {
-				"pageId": 14638,
+				"pageId": 14657,
 				"icon": "account_balance_outlined",
 				"iconFontFamily": "MaterialIcons",
 				"title": "Bank Details"
@@ -269,8 +255,8 @@
 				},
 				"height": 0.5
 			},
-			"description": "Your one stop destination for Trending Fashion Accessories.\nWe offer wide range of affordable clothing accessories that too in limited editions.\n",
-			"subHeader": "Welcome to viaFASHION",
+			"description": "Your one stop destination for Trending Fashion Jewelleries.\nWe offer wide range of affordable Jewelleries accessories that too in limited editions.\n",
+			"subHeader": "Welcome to Shri Tirupati Jewellers",
 			"id": 1
 		},
 		"key": "zsysipw2kn"
