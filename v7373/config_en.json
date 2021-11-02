@@ -73,7 +73,7 @@
 		"autoPlay": false,
 		"radius": 2,
 		"layout": "bannerImage"
-	},  {
+	}, {
 		"marginLeft": 10,
 		"fit": "cover",
 		"height": 0.25,
@@ -118,86 +118,86 @@
 		"tag": null
 	}],
 	"Setting": {
-		"MainColor": "ffc1483f",
-		"TabBarConfig": {
-			"showFloating": true,
-			"paddingBottom": 0,
-			"colorIcon": "ff7a7b7f",
-			"radiusTopRight": 0,
-			"enable": true,
-			"paddingRight": 0,
-			"marginLeft": 0,
-			"TabBarFloating": {
-				"elevation": null,
-				"width": null,
-				"position": 2,
-				"color": "ffff672d",
-				"location": "centerDocked",
-				"height": null,
-				"radius": null,
-				"floatingType": "rectangle"
-			},
-			"marginRight": 0,
-			"paddingTop": 0,
-			"showFloatingClip": true,
-			"colorActiveIcon": "ffff672d",
-			"TabBarIndicator": {
-				"tabPosition": "bottom",
-				"topLeftRadius": null,
-				"verticalPadding": null,
-				"distanceFromCenter": null,
-				"horizontalPadding": null,
-				"bottomRightRadius": null,
-				"color": "ffc1553f",
-				"paintingStyle": "fill",
-				"bottomLeftRadius": null,
-				"height": null,
-				"radius": null,
-				"topRightRadius": null,
-				"strokeWidth": null
-			},
-			"radiusBottomLeft": 0,
-			"radiusBottomRight": 0,
-			"radiusTopLeft": 0,
-			"isSafeArea": true,
-			"colorCart": null,
-			"marginBottom": 0,
-			"iconSize": 22.968195913186673,
-			"color": null,
-			"indicatorStyle": "material",
-			"paddingLeft": 0,
-			"marginTop": 0
-		},
-		"FontHeader": "ABeeZee",
 		"StickyHeader": true,
+		"FontHeader": "ABeeZee",
 		"ProductListLayout": "list",
-		"ProductDetail": "simpleType"
+		"ProductDetail": "simpleType",
+		"MainColor": "ff406b78",
+		"TabBarConfig": {
+			"enable": true,
+			"isSafeArea": true,
+			"color": null,
+			"colorCart": null,
+			"colorIcon": "ff7a7b7f",
+			"colorActiveIcon": "ff406b78",
+			"iconSize": 22.968195913186673,
+			"indicatorStyle": "material",
+			"showFloatingClip": true,
+			"showFloating": true,
+			"radiusTopLeft": 0.0,
+			"radiusTopRight": 0.0,
+			"radiusBottomLeft": 0.0,
+			"radiusBottomRight": 0.0,
+			"paddingLeft": 0.0,
+			"paddingRight": 0.0,
+			"paddingBottom": 0.0,
+			"paddingTop": 0.0,
+			"marginTop": 0.0,
+			"marginBottom": 0.0,
+			"marginLeft": 0.0,
+			"marginRight": 0.0,
+			"TabBarIndicator": {
+				"height": null,
+				"tabPosition": "bottom",
+				"topRightRadius": null,
+				"topLeftRadius": null,
+				"bottomRightRadius": null,
+				"bottomLeftRadius": null,
+				"color": "ff2b697a",
+				"horizontalPadding": null,
+				"verticalPadding": null,
+				"strokeWidth": null,
+				"radius": null,
+				"distanceFromCenter": null,
+				"paintingStyle": "fill"
+			},
+			"TabBarFloating": {
+				"position": 2,
+				"radius": null,
+				"color": "ff14586b",
+				"location": "centerDocked",
+				"width": null,
+				"height": null,
+				"elevation": null,
+				"floatingType": "rectangle"
+			}
+		}
 	},
 	"TabBar": [{
 		"layout": "home",
 		"fontFamily": "CupertinoIcons",
 		"icon": "home",
 		"pos": 100,
-		"key": "zsysipw2kn"
+		"key": "dtehgbrdag"
 	}, {
+		"key": "dtehgbrdag",
 		"layout": "category",
 		"icon": "rectangle_grid_1x2",
 		"fontFamily": "CupertinoIcons",
 		"label": null,
 		"pos": 200,
 		"categoryLayout": "card",
-		"categories": ["1806", "1807", "1808", "1809", "1810"],
-		"images": null,
-		"key": "zsysipw2kn"
+		"categories": null,
+		"images": null
 	}, {
 		"fontFamily": "CupertinoIcons",
 		"layout": "cart",
 		"pos": 300,
 		"label": null,
 		"icon": "shopping_cart",
-		"key": "zsysipw2kn"
+		"key": "dtehgbrdag"
 	}, {
-		"key": "zsysipw2kn",
+		"key": "dtehgbrdag",
 		"layout": "profile",
 		"icon": "person",
 		"fontFamily": "CupertinoIcons",
@@ -259,12 +259,12 @@
 			"subHeader": "Welcome to Shri Tirupati Jewellers",
 			"id": 1
 		},
-		"key": "zsysipw2kn"
+		"key": "dtehgbrdag"
 	}],
 	"Drawer": {
-		"subDrawerItem": {},
 		"logo": "assets/images/logo.png",
 		"key": "g6o14aeyzg",
+		"subDrawerItem": {},
 		"items": [{
 			"type": "home",
 			"show": true
