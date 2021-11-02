@@ -187,7 +187,7 @@
 		"label": null,
 		"pos": 200,
 		"categoryLayout": "card",
-		"categories": null,
+		"categories": ["1806", "1807", "1808", "1809", "1810"],
 		"images": null
 	}, {
 		"fontFamily": "CupertinoIcons",
