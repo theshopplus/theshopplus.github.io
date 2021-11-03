@@ -83,9 +83,9 @@
 		"height": 0.2,
 		"fit": "cover",
 		"items": [{
-			"image": "https://theshopplus.in/wp-content/uploads/2021/10/Live-Gold-Rates-tiny.png",
+			"image": "https://theshopplus.in/wp-content/uploads/2021/11/sale-on-banner.png",
 			"padding": 5.0,
-			"url": "http://hbjodhpur.com/"
+			"category": "873"
 		}]
 	}, {
 		"marginLeft": 10,
@@ -104,7 +104,7 @@
 		"marginTop": 10,
 		"layout": "bannerImage"
 	}, {
-		"name": "Trending Items",
+		"name": "Trending Products",
 		"layout": "threeColumn",
 		"isSnapping": true,
 		"rows": 1,
@@ -128,7 +128,7 @@
 		"showCartIconColor": false,
 		"showCartIcon": true,
 		"enableBottomAddToCart": false,
-		"category": "1803",
+		"category": "873",
 		"tag": null
 	}],
 	"Setting": {
@@ -200,7 +200,7 @@
 		"label": null,
 		"pos": 200,
 		"categoryLayout": "card",
-		"categories": ["1804", "1803", "1802", "620"],
+		"categories": ["254", "873", "256", "1394", "255"],
 		"images": null,
 		"key": "zsysipw2kn"
 	}, {
