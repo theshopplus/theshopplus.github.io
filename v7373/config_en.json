@@ -8,7 +8,7 @@
 		"radius": 50.0,
 		"spacing": 12.0,
 		"items": [{
-			"category": 1803,
+			"category": 1806,
 			"image": "https://theshopplus.github.io/v7373/cat-icons/ring.png",
 			"colors": ["#3CC2BF", "#3CC2BF"],
 			"originalColor": false,
@@ -16,13 +16,13 @@
 			"title": "Ring"
 		}, {
 			"colors": ["#3E6AB5", "#3E6AB5"],
-			"category": 1804,
+			"category": 1807,
 			"image": "https://theshopplus.github.io/v7373/cat-icons/payal.png",
 			"originalColor": false,
 			"keepDefaultTitle": true,
 			"title": "Payal"
 		}, {
-			"category": 1802,
+			"category": 1808,
 			"title": "Coins",
 			"keepDefaultTitle": true,
 			"originalColor": false,
@@ -32,12 +32,12 @@
 			"title": "Bichia",
 			"keepDefaultTitle": true,
 			"originalColor": false,
-			"category": 1802,
+			"category": 1809,
 			"colors": ["#53688A", "#53688A"],
-			"image": "https://theshopplus.github.io/v7373/cat-icons/bichia.png"
+			"image": "https://theshopplus.github.io/v7373/cat-icons/bechia.png"
 		}, {
 			"title": "Others",
-			"category": 1803,
+			"category": 1810,
 			"keepDefaultTitle": true,
 			"image": "https://theshopplus.github.io/v7373/cat-icons/others.png",
 			"colors": ["#43506A", "#43506A"],
