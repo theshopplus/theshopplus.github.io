@@ -9,7 +9,7 @@
 		"spacing": 12.0,
 		"items": [{
 			"category": 1803,
-			"image": "https://user-images.githubusercontent.com/1459805/62820029-2e679f00-bb88-11e9-80de-fdf115cfd942.png",
+			"image": "https://theshopplus.github.io/v7373/cat-icons/ring.png",
 			"colors": ["#3CC2BF", "#3CC2BF"],
 			"originalColor": false,
 			"keepDefaultTitle": true,
@@ -17,7 +17,7 @@
 		}, {
 			"colors": ["#3E6AB5", "#3E6AB5"],
 			"category": 1804,
-			"image": "https://trello-attachments.s3.amazonaws.com/60a62a9bca5053572a669dee/48x58/a68d188ae063a20eac903fe2ca00ece5/ic_dress.png",
+			"image": "https://theshopplus.github.io/v7373/cat-icons/payal.png",
 			"originalColor": false,
 			"keepDefaultTitle": true,
 			"title": "Payal"
@@ -26,7 +26,7 @@
 			"title": "Coins",
 			"keepDefaultTitle": true,
 			"originalColor": false,
-			"image": "https://trello-attachments.s3.amazonaws.com/60a62a9bca5053572a669dee/68x54/93b296bf55ec19d22778158bf06d2dbc/ic_shorts.png",
+			"image": "https://theshopplus.github.io/v7373/cat-icons/coins.png",
 			"colors": ["#53A2CC", "#53A2CC"]
 		}, {
 			"title": "Bichia",
@@ -34,12 +34,12 @@
 			"originalColor": false,
 			"category": 1802,
 			"colors": ["#53688A", "#53688A"],
-			"image": "https://trello-attachments.s3.amazonaws.com/60a62a9bca5053572a669dee/56x48/477fabe73bec2db33ecf04953afa953e/ic_glasses.png"
+			"image": "https://theshopplus.github.io/v7373/cat-icons/bichia.png"
 		}, {
 			"title": "Others",
 			"category": 1803,
 			"keepDefaultTitle": true,
-			"image": "https://trello-attachments.s3.amazonaws.com/60a62a9bca5053572a669dee/72x38/8c778c1b92f5ca02e00c4a34b562c601/ic_tie.png",
+			"image": "https://theshopplus.github.io/v7373/cat-icons/others.png",
 			"colors": ["#43506A", "#43506A"],
 			"originalColor": false
 		}],
