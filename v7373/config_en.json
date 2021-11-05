@@ -305,9 +305,7 @@
 },
 {
 "layout":"category",
-"type":"menuWithProducts",
-"wrap":false,
-"showShortDescription":false,
+ "categoryLayout":"card",
 "size":1.0,
 "radius":6.0,
 "spacing":12.0,
