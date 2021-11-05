@@ -1,137 +1,121 @@
 {
 	"HorizonLayout": [{
-			"layout": "category",
-			"type": "icon",
-			"wrap": false,
-			"showShortDescription": true,
-			"size": 1.0,
-			"radius": 50.0,
-			"spacing": 12.0,
-			"items": [{
-					"category": 1806,
-					"image": "https://theshopplus.github.io/v7373/cat-icons/ring.png",
-					"colors": ["#3CC2BF",
-						"#3CC2BF"
-					],
-					"originalColor": false,
-					"keepDefaultTitle": true,
-					"title": "Ring"
-				},
-				{
-					"colors": ["#3E6AB5",
-						"#3E6AB5"
-					],
-					"category": 1807,
-					"image": "https://theshopplus.github.io/v7373/cat-icons/payal.png",
-					"originalColor": false,
-					"keepDefaultTitle": true,
-					"title": "Payal"
-				},
-				{
-					"category": 1808,
-					"title": "Coins",
-					"keepDefaultTitle": true,
-					"originalColor": false,
-					"image": "https://theshopplus.github.io/v7373/cat-icons/coins.png",
-					"colors": ["#53A2CC",
-						"#53A2CC"
-					]
-				},
-				{
-					"title": "Bichia",
-					"keepDefaultTitle": true,
-					"originalColor": false,
-					"category": 1809,
-					"colors": ["#53688A",
-						"#53688A"
-					],
-					"image": "https://theshopplus.github.io/v7373/cat-icons/bechia.png"
-				},
-				{
-					"title": "Others",
-					"category": 1810,
-					"keepDefaultTitle": true,
-					"image": "https://theshopplus.github.io/v7373/cat-icons/others.png",
-					"colors": ["#43506A",
-						"#43506A"
-					],
-					"originalColor": false
-				}
-			],
-			"line": false,
-			"marginLeft": 10.0,
-			"marginRight": 10.0,
-			"marginTop": 10.0,
-			"marginBottom": 10.0,
-			"paddingX": 0.0,
-			"paddingY": 0.0,
-			"marginX": 0.0,
-			"marginY": 0.0,
-			"hideTitle": false,
-			"noBackground": false
-		},
-		{
-			"showNumber": false,
-			"isSlider": false,
-			"design": "default",
-			"items": [{
-				"image": "https://theshopplus.in/wp-content/uploads/2021/06/app_slider2.jpg",
-				"padding": 15
-			}],
-			"showBackGround": true,
-			"autoPlay": false,
-			"radius": 2,
-			"layout": "bannerImage"
-		},
-		{
-			"marginLeft": 10,
-			"fit": "cover",
-			"height": 0.25,
-			"items": [{
-					"image": "https://theshopplus.github.io/v7373/home-banner/left.png",
-					"padding": 5
-				},
-				{
-					"image": "https://theshopplus.github.io/v7373/home-banner/right.png",
-					"padding": 5
-				}
-			],
-			"marginBottom": 0,
-			"marginRight": 10,
-			"isSlider": false,
-			"marginTop": 10,
-			"layout": "bannerImage"
-		},
-		{
-			"name": "Trending Products",
-			"layout": "threeColumn",
-			"isSnapping": true,
-			"rows": 1,
-			"columns": 0,
-			"imageBoxfit": "cover",
-			"imageRatio": 1.2,
-			"hMargin": 0.0,
-			"vMargin": 0.0,
-			"hPadding": 0.0,
-			"vPadding": 0.0,
-			"showStockStatus": false,
-			"enableRating": true,
-			"hideTitle": false,
-			"hideStore": true,
-			"hidePrice": false,
-			"featured": false,
-			"showHeart": false,
-			"showCartButton": false,
-			"cartIconRadius": 9.0,
-			"showQuantity": false,
-			"showCartIconColor": false,
-			"showCartIcon": true,
-			"enableBottomAddToCart": false,
-			"category": "1806",
-			"tag": null
-		}
-	],
+		"layout": "category",
+		"type": "icon",
+		"wrap": false,
+		"showShortDescription": true,
+		"size": 1.0,
+		"radius": 50.0,
+		"spacing": 12.0,
+		"items": [{
+			"category": 1806,
+			"image": "https://theshopplus.github.io/v7373/cat-icons/ring.png",
+			"colors": ["#3CC2BF", "#3CC2BF"],
+			"originalColor": false,
+			"keepDefaultTitle": true,
+			"title": "Ring"
+		}, {
+			"colors": ["#3E6AB5", "#3E6AB5"],
+			"category": 1807,
+			"image": "https://theshopplus.github.io/v7373/cat-icons/payal.png",
+			"originalColor": false,
+			"keepDefaultTitle": true,
+			"title": "Payal"
+		}, {
+			"category": 1808,
+			"title": "Coins",
+			"keepDefaultTitle": true,
+			"originalColor": false,
+			"image": "https://theshopplus.github.io/v7373/cat-icons/coins.png",
+			"colors": ["#53A2CC", "#53A2CC"]
+		}, {
+			"title": "Bichia",
+			"keepDefaultTitle": true,
+			"originalColor": false,
+			"category": 1809,
+			"colors": ["#53688A", "#53688A"],
+			"image": "https://theshopplus.github.io/v7373/cat-icons/bechia.png"
+		}, {
+			"title": "Others",
+			"category": 1810,
+			"keepDefaultTitle": true,
+			"image": "https://theshopplus.github.io/v7373/cat-icons/others.png",
+			"colors": ["#43506A", "#43506A"],
+			"originalColor": false
+		}],
+		"line": false,
+		"marginLeft": 10.0,
+		"marginRight": 10.0,
+		"marginTop": 10.0,
+		"marginBottom": 10.0,
+		"paddingX": 0.0,
+		"paddingY": 0.0,
+		"marginX": 0.0,
+		"marginY": 0.0,
+		"hideTitle": false,
+		"noBackground": false
+	}, {
+		"showNumber": false,
+		"isSlider": false,
+		"design": "default",
+		"items": [{
+			"image": "https://theshopplus.in/wp-content/uploads/2021/06/app_slider2.jpg",
+			"padding": 15
+		}],
+		"showBackGround": true,
+		"autoPlay": false,
+		"radius": 2,
+		"layout": "bannerImage"
+	}, {
+		"marginLeft": 10,
+		"fit": "cover",
+		"height": 0.25,
+		"items": [{
+			"image": "https://theshopplus.github.io/v7373/home-banner/left.png",
+			"padding": 5
+		}, {
+			"image": "https://theshopplus.github.io/v7373/home-banner/right.png",
+			"padding": 5
+		}],
+		"marginBottom": 0,
+		"marginRight": 10,
+		"isSlider": false,
+		"marginTop": 10,
+		"layout": "bannerImage"
+	}, {
+		"name": "Trending Products",
+		"layout": "threeColumn",
+		"isSnapping": true,
+		"rows": 1,
+		"columns": 0,
+		"imageBoxfit": "cover",
+		"imageRatio": 1.2,
+		"hMargin": 0.0,
+		"vMargin": 0.0,
+		"hPadding": 0.0,
+		"vPadding": 0.0,
+		"showStockStatus": false,
+		"enableRating": true,
+		"hideTitle": false,
+		"hideStore": true,
+		"hidePrice": false,
+		"featured": false,
+		"showHeart": false,
+		"showCartButton": false,
+		"cartIconRadius": 9.0,
+		"showQuantity": false,
+		"showCartIconColor": false,
+		"showCartIcon": true,
+		"enableBottomAddToCart": false,
+		"category": "1806",
+		"tag": null
+	}],
 	"Setting": {
+		"StickyHeader": true,
+		"FontHeader": "ABeeZee",
+		"ProductListLayout": "list",
+		"ProductDetail": "simpleType",
+		"MainColor": "ff406b78",
 		"TabBarConfig": {
 			"enable": true,
 			"isSafeArea": true,
@@ -180,281 +164,198 @@
 				"elevation": null,
 				"floatingType": "rectangle"
 			}
-		},
-		"StickyHeader": true,
-		"MainColor": "ff406b78",
-		"ProductDetail": "simpleType",
-		"ProductListLayout": "list",
-		"FontHeader": "ABeeZee"
+		}
 	},
 	"TabBar": [{
-			"layout": "home",
-			"fontFamily": "CupertinoIcons",
-			"icon": "home",
-			"pos": 100,
-			"key": "9tirw0s8hj"
-		},
-		{
-			"key": "9tirw0s8hj",
-			"layout": "category",
-			"icon": "rectangle_grid_1x2",
-			"fontFamily": "CupertinoIcons",
-			"label": null,
-			"pos": 200,
-			"categoryLayout": "card",
-			"items": [{
-						"category": "1808",
-						"image": null,
-						"colors": ["#ffff5722"],
-						"originalColor": false,
-						"keepDefaultTitle": true,
-						"title": "Coins"
-					},
-					{
-							"category": "1808",
-							"image": null,
-							"colors": ["#ffff5722"],
-							"originalColor": false,
-							"keepDefaultTitle": true,
-							"title": "Coins"
-						}],
-			
-			"images": null
-		},
-		{
-			"fontFamily": "CupertinoIcons",
-			"layout": "cart",
-			"pos": 300,
-			"label": null,
-			"icon": "shopping_cart",
-			"key": "9tirw0s8hj"
-		},
-		{
-			"key": "9tirw0s8hj",
-			"layout": "profile",
-			"icon": "person",
-			"fontFamily": "CupertinoIcons",
-			"label": null,
-			"pos": 400,
-			"settings": ["wishlist",
-				"notifications",
-				"language",
-				"darkTheme",
-				"order",
-				"rating",
-				"title-58nknb8tey",
-				"post-54e1t0o95z"
-			],
-			"background": "https://theshopplus.in/wp-content/uploads/2021/01/settings-medium.jpg",
-			"subGeneralSetting": {
-				"title-58nknb8tey": {
-					"title": "Payment",
-					"enableDivider": true,
-					"fontSize": 14.0,
-					"titleColor": null,
-					"verticalPadding": {
-						"x": 15.0,
-						"y": 15.0
-					}
-				},
-				"post-54e1t0o95z": {
-					"pageId": 14657,
-					"icon": "account_balance_outlined",
-					"iconFontFamily": "MaterialIcons",
-					"title": "Bank Details"
+		"layout": "home",
+		"fontFamily": "CupertinoIcons",
+		"icon": "home",
+		"pos": 100,
+		"key": "dtehgbrdag"
+	}, {
+		"key": "dtehgbrdag",
+		"layout": "category",
+		"icon": "rectangle_grid_1x2",
+		"fontFamily": "CupertinoIcons",
+		"label": null,
+		"pos": 200,
+		"categoryLayout": "card",
+		"categories": ["1806", "1807", "1808", "1809", "1810"],
+		"images": null
+	}, {
+		"fontFamily": "CupertinoIcons",
+		"layout": "cart",
+		"pos": 300,
+		"label": null,
+		"icon": "shopping_cart",
+		"key": "dtehgbrdag"
+	}, {
+		"key": "dtehgbrdag",
+		"layout": "profile",
+		"icon": "person",
+		"fontFamily": "CupertinoIcons",
+		"label": null,
+		"pos": 400,
+		"settings": ["wishlist", "notifications", "language", "darkTheme", "order", "rating", "title-58nknb8tey", "post-54e1t0o95z"],
+		"background": "https://theshopplus.in/wp-content/uploads/2021/01/settings-medium.jpg",
+		"subGeneralSetting": {
+			"title-58nknb8tey": {
+				"title": "Payment",
+				"enableDivider": true,
+				"fontSize": 14.0,
+				"titleColor": null,
+				"verticalPadding": {
+					"x": 15.0,
+					"y": 15.0
 				}
-			}
-		},
-		{
-			"pos": 500,
-			"layout": "static",
-			"icon": "paperplane",
-			"fontFamily": "CupertinoIcons",
-			"label": null,
-			"data": {
-				"container": {
-					"image": {
-						"height": 0.5,
-						"url": "https://spic.one/wp-content/uploads/2018/08/e052b0077cff56f03b0c.png",
-						"align": {
-							"x": 1,
-							"y": 1
-						},
-						"width": 1
-					},
-					"header": {
-						"padding": {
-							"horizontal": 20,
-							"vertical": 10
-						},
-						"background": "#000000",
-						"text": "About US",
-						"color": "#FFFFFF",
-						"align": {
-							"y": 0.8,
-							"x": -1
-						}
-					},
-					"height": 0.5
-				},
-				"description": "Your one stop destination for Trending Fashion Jewelleries.\nWe offer wide range of affordable Jewelleries accessories that too in limited editions.\n",
-				"subHeader": "Welcome to Shri Tirupati Jewellers",
-				"id": 1
 			},
-			"key": "9tirw0s8hj"
-		},
-		{
-			"key": "8amfxde58c",
-			"layout": "dynamic",
-			"icon": "assets/icons/tabs/icon-heartthin.png",
-			"fontFamily": null,
-			"label": null,
-			"pos": 539,
-			"configs": {
-				"HorizonLayout": [{
-					"layout": "category",
-					"type": "text",
-					"categoryLayout": "card",
-					"wrap": false,
-					"showShortDescription": true,
-					"size": 1.0,
-					"radius": 0.0,
-					"spacing": 12.0,
-					"items": [{
-						"category": "1808",
-						"image": null,
-						"colors": ["#ffff5722"],
-						"originalColor": false,
-						"keepDefaultTitle": true,
-						"title": "Coins"
-					},
-					{
-							"category": "1808",
-							"image": null,
-							"colors": ["#ffff5722"],
-							"originalColor": false,
-							"keepDefaultTitle": true,
-							"title": "Coins"
-						}],
-				}]
+			"post-54e1t0o95z": {
+				"pageId": 14657,
+				"icon": "account_balance_outlined",
+				"iconFontFamily": "MaterialIcons",
+				"title": "Bank Details"
 			}
 		}
-	],
+	}, {
+		"pos": 500,
+		"layout": "static",
+		"icon": "paperplane",
+		"fontFamily": "CupertinoIcons",
+		"label": null,
+		"data": {
+			"container": {
+				"image": {
+					"height": 0.5,
+					"url": "https://spic.one/wp-content/uploads/2018/08/e052b0077cff56f03b0c.png",
+					"align": {
+						"x": 1,
+						"y": 1
+					},
+					"width": 1
+				},
+				"header": {
+					"padding": {
+						"horizontal": 20,
+						"vertical": 10
+					},
+					"background": "#000000",
+					"text": "About US",
+					"color": "#FFFFFF",
+					"align": {
+						"y": 0.8,
+						"x": -1
+					}
+				},
+				"height": 0.5
+			},
+			"description": "Your one stop destination for Trending Fashion Jewelleries.\nWe offer wide range of affordable Jewelleries accessories that too in limited editions.\n",
+			"subHeader": "Welcome to Shri Tirupati Jewellers",
+			"id": 1
+		},
+		"key": "dtehgbrdag"
+	}],
 	"Drawer": {
 		"logo": "assets/images/logo.png",
 		"key": "g6o14aeyzg",
+		"subDrawerItem": {},
 		"items": [{
-				"type": "home",
-				"show": true
-			},
-			{
-				"type": "blog",
-				"show": false
-			},
-			{
-				"type": "login",
-				"show": false
-			},
-			{
-				"type": "category",
-				"show": true
-			},
-			{
-				"type": "categories",
-				"show": false
-			},
-			{
-				"type": "cart",
-				"show": false
-			},
-			{
-				"type": "profile",
-				"show": true
-			},
-			{
-				"type": "web",
-				"show": false
-			}
-		],
-		"subDrawerItem": {}
+			"type": "home",
+			"show": true
+		}, {
+			"type": "blog",
+			"show": false
+		}, {
+			"type": "login",
+			"show": false
+		}, {
+			"type": "category",
+			"show": true
+		}, {
+			"type": "categories",
+			"show": false
+		}, {
+			"type": "cart",
+			"show": false
+		}, {
+			"type": "profile",
+			"show": true
+		}, {
+			"type": "web",
+			"show": false
+		}]
 	},
 	"AppBar": {
 		"items": [{
-				"marginLeft": 16,
-				"type": "icon",
-				"fontSize": 16,
-				"radius": 18,
-				"backgroundColor": "0",
-				"paddingBottom": 4,
-				"textOpacity": 0.5,
-				"paddingRight": 4,
-				"pos": 100,
-				"marginBottom": 4,
-				"iconSize": 24,
-				"icon": "square_grid_2x2",
-				"size": 40,
-				"marginRight": 4,
-				"fontFamily": "CupertinoIcons",
-				"alignment": "center",
-				"paddingTop": 4,
-				"action": "menu",
-				"fontWeight": "400",
-				"marginTop": 4,
-				"key": "gbs354efgo",
-				"paddingLeft": 4
-			},
-			{
-				"paddingBottom": 4,
-				"alignment": "center",
-				"fontFamily": "CupertinoIcons",
-				"icon": "location",
-				"size": 20,
-				"marginRight": 4,
-				"marginBottom": 4,
-				"iconSize": 24,
-				"marginTop": 4,
-				"paddingTop": 4,
-				"key": "cm03ohengg",
-				"fontSize": 18,
-				"marginLeft": 4,
-				"fontWeight": "800",
-				"backgroundColor": "#00000000",
-				"textOpacity": 0.8,
-				"pos": 200,
-				"type": "text",
-				"paddingLeft": 4,
-				"radius": 16,
-				"action": "none",
-				"title": "Shri Tirupati Jewellers",
-				"paddingRight": 4
-			},
-			{
-				"textOpacity": 0.5,
-				"icon": "shopping_cart",
-				"backgroundColor": "0",
-				"paddingBottom": 4,
-				"size": 40,
-				"fontSize": 16,
-				"radius": 18,
-				"key": "swrxx0zicb",
-				"fontWeight": "400",
-				"paddingTop": 4,
-				"action": "cart",
-				"alignment": "center",
-				"marginBottom": 4,
-				"iconSize": 24,
-				"type": "icon",
-				"fontFamily": "CupertinoIcons",
-				"pos": 400,
-				"marginTop": 4,
-				"paddingRight": 4,
-				"marginLeft": 4,
-				"paddingLeft": 4,
-				"marginRight": 16
-			}
-		],
-		"showOnScreens": ["home",
-			"category"
-		]
+			"marginLeft": 16,
+			"type": "icon",
+			"fontSize": 16,
+			"radius": 18,
+			"backgroundColor": "0",
+			"paddingBottom": 4,
+			"textOpacity": 0.5,
+			"paddingRight": 4,
+			"pos": 100,
+			"marginBottom": 4,
+			"iconSize": 24,
+			"icon": "square_grid_2x2",
+			"size": 40,
+			"marginRight": 4,
+			"fontFamily": "CupertinoIcons",
+			"alignment": "center",
+			"paddingTop": 4,
+			"action": "menu",
+			"fontWeight": "400",
+			"marginTop": 4,
+			"key": "gbs354efgo",
+			"paddingLeft": 4
+		}, {
+			"paddingBottom": 4,
+			"alignment": "center",
+			"fontFamily": "CupertinoIcons",
+			"icon": "location",
+			"size": 20,
+			"marginRight": 4,
+			"marginBottom": 4,
+			"iconSize": 24,
+			"marginTop": 4,
+			"paddingTop": 4,
+			"key": "cm03ohengg",
+			"fontSize": 18,
+			"marginLeft": 4,
+			"fontWeight": "800",
+			"backgroundColor": "#00000000",
+			"textOpacity": 0.8,
+			"pos": 200,
+			"type": "text",
+			"paddingLeft": 4,
+			"radius": 16,
+			"action": "none",
+			"title": "Shri Tirupati Jewellers",
+			"paddingRight": 4
+		}, {
+			"textOpacity": 0.5,
+			"icon": "shopping_cart",
+			"backgroundColor": "0",
+			"paddingBottom": 4,
+			"size": 40,
+			"fontSize": 16,
+			"radius": 18,
+			"key": "swrxx0zicb",
+			"fontWeight": "400",
+			"paddingTop": 4,
+			"action": "cart",
+			"alignment": "center",
+			"marginBottom": 4,
+			"iconSize": 24,
+			"type": "icon",
+			"fontFamily": "CupertinoIcons",
+			"pos": 400,
+			"marginTop": 4,
+			"paddingRight": 4,
+			"marginLeft": 4,
+			"paddingLeft": 4,
+			"marginRight": 16
+		}],
+		"showOnScreens": ["home", "category"]
 	}
 }
