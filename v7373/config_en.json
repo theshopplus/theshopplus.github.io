@@ -180,7 +180,7 @@
 		"label": null,
 		"pos": 200,
 		"categoryLayout": "card",
-		"categories": ["1806", "1807", "1814", "1809", "1810", "1812"],
+		"categories": ["1806", "1807", "1808", "1809", "1810"],
 		"images": null
 	}, {
 		"fontFamily": "CupertinoIcons",
