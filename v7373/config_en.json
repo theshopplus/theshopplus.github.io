@@ -29,17 +29,17 @@
 			"image": "https://theshopplus.github.io/v7373/cat-icons/coins.png",
 			"colors": ["#53A2CC", "#53A2CC"]
 		}, {
-			"title": "Bichia",
+			"title": "Chain",
 			"keepDefaultTitle": true,
 			"originalColor": false,
-			"category": 1809,
+			"category": 1823,
 			"colors": ["#53688A", "#53688A"],
 			"image": "https://theshopplus.github.io/v7373/cat-icons/bechia.png"
 		}, {
-			"title": "Others",
-			"category": 1810,
+			"title": "Earring",
+			"category": 1829,
 			"keepDefaultTitle": true,
-			"image": "https://theshopplus.github.io/v7373/cat-icons/others.png",
+			"image": "https://theshopplus.github.io/v7373/cat-icons/earings.png",
 			"colors": ["#43506A", "#43506A"],
 			"originalColor": false
 		}],
