@@ -8,36 +8,36 @@
 		"radius": 50.0,
 		"spacing": 12.0,
 		"items": [{
-			"category": 1806,
+			"category": 1842,
 			"image": "https://theshopplus.github.io/v7373/cat-icons/ring.png",
 			"colors": ["#3CC2BF", "#3CC2BF"],
 			"originalColor": false,
 			"keepDefaultTitle": true,
-			"title": "Ring"
+			"title": "Shirt"
 		}, {
 			"colors": ["#3E6AB5", "#3E6AB5"],
-			"category": 1807,
+			"category": 1840,
 			"image": "https://theshopplus.github.io/v7373/cat-icons/payal.png",
 			"originalColor": false,
 			"keepDefaultTitle": true,
-			"title": "Payal"
+			"title": "Saree"
 		}, {
-			"category": 1808,
-			"title": "Coins",
+			"category": 1837,
+			"title": "Jeans",
 			"keepDefaultTitle": true,
 			"originalColor": false,
 			"image": "https://theshopplus.github.io/v7373/cat-icons/coins.png",
 			"colors": ["#53A2CC", "#53A2CC"]
 		}, {
-			"title": "Bichia",
+			"title": "Tshirt",
 			"keepDefaultTitle": true,
 			"originalColor": false,
-			"category": 1809,
+			"category": 1835,
 			"colors": ["#53688A", "#53688A"],
 			"image": "https://theshopplus.github.io/v7373/cat-icons/bechia.png"
 		}, {
-			"title": "Others",
-			"category": 1810,
+			"title": "Shoes",
+			"category": 1841,
 			"keepDefaultTitle": true,
 			"image": "https://theshopplus.github.io/v7373/cat-icons/others.png",
 			"colors": ["#43506A", "#43506A"],
@@ -180,7 +180,7 @@
 		"label": null,
 		"pos": 200,
 		"categoryLayout": "card",
-		"categories": ["1806", "1807", "1808", "1809", "1363"],
+		"categories": ["1842", "1837", "1839", "1838", "1835","1836","1840","1841"],
 		"images": null
 	}, {
 		"fontFamily": "CupertinoIcons",
