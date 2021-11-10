@@ -1,382 +1,393 @@
 {
 	"HorizonLayout": [{
-		"layout": "category",
-		"type": "icon",
-		"wrap": false,
-		"showShortDescription": true,
-		"size": 1.0,
-		"radius": 50.0,
-		"spacing": 12.0,
-		"items": [{
-			"category": 1803,
-			"image": "https://user-images.githubusercontent.com/1459805/62820029-2e679f00-bb88-11e9-80de-fdf115cfd942.png",
-			"colors": ["#3CC2BF", "#3CC2BF"],
-			"originalColor": false,
-			"keepDefaultTitle": true,
-			"title": "Earring"
-		}, {
-			"colors": ["#3E6AB5", "#3E6AB5"],
-			"category": 1804,
-			"image": "https://trello-attachments.s3.amazonaws.com/60a62a9bca5053572a669dee/48x58/a68d188ae063a20eac903fe2ca00ece5/ic_dress.png",
-			"originalColor": false,
-			"keepDefaultTitle": true,
-			"title": "Mala"
-		}, {
-			"category": 1802,
-			"title": "Rings",
-			"keepDefaultTitle": true,
-			"originalColor": false,
-			"image": "https://trello-attachments.s3.amazonaws.com/60a62a9bca5053572a669dee/68x54/93b296bf55ec19d22778158bf06d2dbc/ic_shorts.png",
-			"colors": ["#53A2CC", "#53A2CC"]
-		}, {
-			"title": "Gold",
-			"keepDefaultTitle": true,
-			"originalColor": false,
-			"category": 1802,
-			"colors": ["#53688A", "#53688A"],
-			"image": "https://trello-attachments.s3.amazonaws.com/60a62a9bca5053572a669dee/56x48/477fabe73bec2db33ecf04953afa953e/ic_glasses.png"
-		}, {
-			"title": "Silver",
-			"category": 1803,
-			"keepDefaultTitle": true,
-			"image": "https://trello-attachments.s3.amazonaws.com/60a62a9bca5053572a669dee/72x38/8c778c1b92f5ca02e00c4a34b562c601/ic_tie.png",
-			"colors": ["#43506A", "#43506A"],
-			"originalColor": false
-		}, {
-			"image": "https://trello-attachments.s3.amazonaws.com/60a62a9bca5053572a669dee/68x34/e20dbfd9e05fb3fbb8991d5d2213a9b0/ic_panties.png",
-			"originalColor": false,
-			"colors": ["#12B58C", "#12B58C"],
-			"category": 1804,
-			"keepDefaultTitle": true,
-			"title": "Bangles"
-		}],
-		"line": false,
-		"marginLeft": 10.0,
-		"marginRight": 10.0,
-		"marginTop": 10.0,
-		"marginBottom": 10.0,
-		"paddingX": 0.0,
-		"paddingY": 0.0,
-		"marginX": 0.0,
-		"marginY": 0.0,
-		"hideTitle": false,
-		"noBackground": false
-	}, {
-		"showNumber": false,
-		"isSlider": false,
-		"design": "default",
-		"items": [{
-			"image": "https://theshopplus.in/wp-content/uploads/2021/06/app_slider2.jpg",
-			"padding": 15
-		}],
-		"showBackGround": true,
-		"autoPlay": false,
-		"radius": 2,
-		"layout": "bannerImage"
-	}, {
-		"layout": "bannerImage",
-		"isSlider": false,
-		"marginTop": 0.0,
-		"marginBottom": 0.0,
-		"marginLeft": 10.0,
-		"marginRight": 10.0,
-		"height": 0.2,
-		"fit": "cover",
-		"items": [{
-			"image": "https://theshopplus.in/wp-content/uploads/2021/11/sale-on-banner.png",
-			"padding": 5.0,
-			"category": "873"
-		}]
-	}, {
-		"marginLeft": 10,
-		"fit": "cover",
-		"height": 0.25,
-		"items": [{
-			"image": "https://user-images.githubusercontent.com/1459805/59846823-12ffc500-938b-11e9-8d93-65ead3d6b1dd.png",
-			"padding": 5
-		}, {
-			"image": "https://user-images.githubusercontent.com/1459805/59846824-12ffc500-938b-11e9-8d5a-fc42cb1b7658.png",
-			"padding": 5
-		}],
-		"marginBottom": 0,
-		"marginRight": 10,
-		"isSlider": false,
-		"marginTop": 10,
-		"layout": "bannerImage"
-	}, {
-		"name": "Trending Products",
-		"layout": "threeColumn",
-		"isSnapping": true,
-		"rows": 1,
-		"columns": 0,
-		"imageBoxfit": "cover",
-		"imageRatio": 1.2,
-		"hMargin": 0.0,
-		"vMargin": 0.0,
-		"hPadding": 0.0,
-		"vPadding": 0.0,
-		"showStockStatus": false,
-		"enableRating": true,
-		"hideTitle": false,
-		"hideStore": true,
-		"hidePrice": false,
-		"featured": false,
-		"showHeart": false,
-		"showCartButton": false,
-		"cartIconRadius": 9.0,
-		"showQuantity": false,
-		"showCartIconColor": false,
-		"showCartIcon": true,
-		"enableBottomAddToCart": false,
-		"category": "873",
-		"tag": null
-	}],
-	"Setting": {
-		"MainColor": "ffc1483f",
-		"TabBarConfig": {
-			"showFloating": true,
-			"paddingBottom": 0,
-			"colorIcon": "ff7a7b7f",
-			"radiusTopRight": 0,
-			"enable": true,
-			"paddingRight": 0,
-			"marginLeft": 0,
-			"TabBarFloating": {
-				"elevation": null,
-				"width": null,
-				"position": 2,
-				"color": "ffff672d",
-				"location": "centerDocked",
-				"height": null,
-				"radius": null,
-				"floatingType": "rectangle"
-			},
-			"marginRight": 0,
-			"paddingTop": 0,
-			"showFloatingClip": true,
-			"colorActiveIcon": "ffff672d",
-			"TabBarIndicator": {
-				"tabPosition": "bottom",
-				"topLeftRadius": null,
-				"verticalPadding": null,
-				"distanceFromCenter": null,
-				"horizontalPadding": null,
-				"bottomRightRadius": null,
-				"color": "ffc1553f",
-				"paintingStyle": "fill",
-				"bottomLeftRadius": null,
-				"height": null,
-				"radius": null,
-				"topRightRadius": null,
-				"strokeWidth": null
-			},
-			"radiusBottomLeft": 0,
-			"radiusBottomRight": 0,
-			"radiusTopLeft": 0,
-			"isSafeArea": true,
-			"colorCart": null,
-			"marginBottom": 0,
-			"iconSize": 22.968195913186673,
-			"color": null,
-			"indicatorStyle": "material",
-			"paddingLeft": 0,
-			"marginTop": 0
+			"layout": "bannerImage",
+			"isSlider": true,
+			"marginTop": 0.0,
+			"marginBottom": 0.0,
+			"marginLeft": 0.0,
+			"marginRight": 0.0,
+			"height": 0.2,
+			"fit": "cover",
+			"items": [{
+					"background": "https://user-images.githubusercontent.com/1459805/62924786-09b73580-bddb-11e9-94e1-a3bc0c00f35d.png",
+					"image": "https://user-images.githubusercontent.com/1459805/62924791-0a4fcc00-bddb-11e9-91e1-63e3018f6af6.png",
+					"padding": 20.0,
+					"category": null
+				},
+				{
+					"background": "https://user-images.githubusercontent.com/1459805/62925388-73840f00-bddc-11e9-843b-8f0024836aaf.png",
+					"image": "https://user-images.githubusercontent.com/1459805/62924793-0ae86280-bddb-11e9-860e-737e42831e6f.png",
+					"padding": 20.0
+				},
+				{
+					"background": "https://user-images.githubusercontent.com/1459805/62924787-09b73580-bddb-11e9-9834-4be535cea5f5.png",
+					"image": "https://user-images.githubusercontent.com/1459805/62924792-0ae86280-bddb-11e9-8532-c9b0cffea5ae.png",
+					"padding": 20.0
+				},
+				{
+					"background": "https://user-images.githubusercontent.com/1459805/62925389-741ca580-bddc-11e9-85ba-8ba380600883.png",
+					"image": "https://user-images.githubusercontent.com/1459805/62924794-0b80f900-bddb-11e9-9bf0-3cf416c46332.png",
+					"padding": 20.0
+				}
+			],
+			"autoPlay": false,
+			"design": "default",
+			"radius": 20.0,
+			"intervalTime": 3,
+			"showBackground": true,
+			"upHeight": 207.73319251095265,
+			"isBlur": false
 		},
+		{
+			"layout": "bannerImage",
+			"items": [{
+				"image": "https://user-images.githubusercontent.com/1459805/62924800-0cb22600-bddb-11e9-8aa0-44782a5cabf2.png",
+				"padding": 15.0,
+				"radius": 20.0,
+				"category": null
+			}]
+		},
+		{
+			"layout": "bannerImage",
+			"items": [{
+				"image": "https://user-images.githubusercontent.com/1459805/62924796-0b80f900-bddb-11e9-98a6-8bc87bd4caaa.png",
+				"padding": 15.0,
+				"radius": 20.0
+			}]
+		},
+		{
+			"name": "Trending Collection",
+			"layout": "twoColumn",
+			"isSnapping": false,
+			"rows": 1,
+			"columns": 0,
+			"imageBoxfit": "cover",
+			"imageRatio": 1.2,
+			"hMargin": 0.0,
+			"vMargin": 0.0,
+			"hPadding": 0.0,
+			"vPadding": 0.0,
+			"showStockStatus": true,
+			"enableRating": true,
+			"hideTitle": false,
+			"hideStore": false,
+			"hidePrice": false,
+			"featured": false,
+			"showHeart": true,
+			"showCartButton": false,
+			"cartIconRadius": 9.0,
+			"showQuantity": false,
+			"showCartIconColor": false,
+			"showCartIcon": true,
+			"enableBottomAddToCart": true,
+			"category": "1363",
+			"tag": null
+		},
+		{
+			"name": "New Collection",
+			"layout": "staggered",
+			"isSnapping": false,
+			"rows": 1,
+			"columns": 0,
+			"imageBoxfit": "cover",
+			"imageRatio": 1.2,
+			"hMargin": 0.0,
+			"vMargin": 0.0,
+			"hPadding": 0.0,
+			"vPadding": 0.0,
+			"showStockStatus": true,
+			"enableRating": true,
+			"hideTitle": false,
+			"hideStore": true,
+			"hidePrice": false,
+			"featured": false,
+			"showHeart": false,
+			"showCartButton": false,
+			"cartIconRadius": 9.0,
+			"showQuantity": false,
+			"showCartIconColor": false,
+			"showCartIcon": true,
+			"enableBottomAddToCart": false,
+			"category": "1394",
+			"tag": null
+		}
+	],
+	"Setting": {
 		"FontHeader": "ABeeZee",
-		"StickyHeader": true,
+		"TabBarConfig": {
+			"enable": true,
+			"isSafeArea": true,
+			"color": null,
+			"colorCart": null,
+			"colorIcon": "ff7a7b7f",
+			"colorActiveIcon": "ff991b2c",
+			"iconSize": 22.968195913186673,
+			"indicatorStyle": "none",
+			"showFloatingClip": false,
+			"showFloating": true,
+			"radiusTopLeft": 0.0,
+			"radiusTopRight": 0.0,
+			"radiusBottomLeft": 0.0,
+			"radiusBottomRight": 0.0,
+			"paddingLeft": 0.0,
+			"paddingRight": 0.0,
+			"paddingBottom": 0.0,
+			"paddingTop": 0.0,
+			"marginTop": 0.0,
+			"marginBottom": 0.0,
+			"marginLeft": 0.0,
+			"marginRight": 0.0,
+			"TabBarIndicator": {
+				"height": null,
+				"tabPosition": "bottom",
+				"topRightRadius": null,
+				"topLeftRadius": null,
+				"bottomRightRadius": null,
+				"bottomLeftRadius": null,
+				"color": null,
+				"horizontalPadding": null,
+				"verticalPadding": null,
+				"strokeWidth": null,
+				"radius": null,
+				"distanceFromCenter": null,
+				"paintingStyle": "fill"
+			},
+			"TabBarFloating": {
+				"position": 2,
+				"radius": null,
+				"color": "ff101160",
+				"location": "centerDocked",
+				"width": null,
+				"height": null,
+				"elevation": null,
+				"floatingType": "rectangle"
+			}
+		},
+		"ProductDetail": "simpleType",
 		"ProductListLayout": "list",
-		"ProductDetail": "simpleType"
+		"MainColor": "#3FC1BE",
+		"StickyHeader": true,
+		"ShowChat": true
 	},
 	"TabBar": [{
-		"layout": "home",
-		"fontFamily": "CupertinoIcons",
-		"icon": "home",
-		"pos": 100,
-		"key": "zsysipw2kn"
-	}, {
-		"layout": "category",
-		"icon": "rectangle_grid_1x2",
-		"fontFamily": "CupertinoIcons",
-		"label": null,
-		"pos": 200,
-		"categoryLayout": "card",
-		"categories": ["254", "873", "256", "1394", "255"],
-		"images": null,
-		"key": "zsysipw2kn"
-	}, {
-		"fontFamily": "CupertinoIcons",
-		"layout": "cart",
-		"pos": 300,
-		"label": null,
-		"icon": "shopping_cart",
-		"key": "zsysipw2kn"
-	}, {
-		"key": "zsysipw2kn",
-		"layout": "profile",
-		"icon": "person",
-		"fontFamily": "CupertinoIcons",
-		"label": null,
-		"pos": 400,
-		"settings": ["wishlist", "notifications", "language", "darkTheme", "order", "rating", "title-58nknb8tey", "post-54e1t0o95z"],
-		"background": "https://theshopplus.in/wp-content/uploads/2021/01/settings-medium.jpg",
-		"subGeneralSetting": {
-			"title-58nknb8tey": {
-				"title": "Payment",
-				"enableDivider": true,
-				"fontSize": 14.0,
-				"titleColor": null,
-				"verticalPadding": {
-					"x": 15.0,
-					"y": 15.0
-				}
-			},
-			"post-54e1t0o95z": {
-				"pageId": 14638,
-				"icon": "account_balance_outlined",
-				"iconFontFamily": "MaterialIcons",
-				"title": "Bank Details"
-			}
-		}
-	}, {
-		"pos": 500,
-		"layout": "static",
-		"icon": "paperplane",
-		"fontFamily": "CupertinoIcons",
-		"label": null,
-		"data": {
-			"container": {
-				"image": {
-					"height": 0.5,
-					"url": "https://spic.one/wp-content/uploads/2018/08/e052b0077cff56f03b0c.png",
-					"align": {
-						"x": 1,
-						"y": 1
-					},
-					"width": 1
-				},
-				"header": {
-					"padding": {
-						"horizontal": 20,
-						"vertical": 10
-					},
-					"background": "#000000",
-					"text": "About US",
-					"color": "#FFFFFF",
-					"align": {
-						"y": 0.8,
-						"x": -1
-					}
-				},
-				"height": 0.5
-			},
-			"description": "Your one stop destination for Trending Fashion Accessories.\nWe offer wide range of affordable clothing accessories that too in limited editions.\n",
-			"subHeader": "Welcome to viaFASHION",
-			"id": 1
+			"layout": "home",
+			"icon": "home",
+			"pos": 100,
+			"fontFamily": "CupertinoIcons",
+			"key": "4xn8ot7v25"
 		},
-		"key": "zsysipw2kn"
-	}],
+		{
+			"key": "4xn8ot7v25",
+			"layout": "vendors",
+			"icon": "rectangle_grid_1x2",
+			"fontFamily": "CupertinoIcons",
+			"label": null,
+			"pos": 200,
+			"categoryLayout": "sideMenu",
+			"categories": ["620",
+				"1804",
+				"1803",
+				"1802",
+				"362",
+				"333",
+				"1805",
+				"250",
+				"224",
+				"186",
+				"350",
+				"194",
+				"1823",
+				"1363",
+				"1808",
+				"282",
+				"1829",
+				"753",
+				"202",
+				"1465",
+				"1553",
+				"297",
+				"359",
+				"188",
+				"222",
+				"1386",
+				"335",
+				"1661",
+				"254",
+				"1562",
+				"231",
+				"1590",
+				"1807",
+				"1845",
+				"237",
+				"1660",
+				"642",
+				"1797",
+				"1806",
+				"1840",
+				"1842",
+				"1841",
+				"1714",
+				"1410",
+				"228",
+				"217",
+				"1813",
+				"1843",
+				"330",
+				"1835",
+				"1790",
+				"1789",
+				"1394"
+			],
+			"images": null
+		},
+		{
+			"icon": "search",
+			"layout": "search",
+			"fontFamily": "CupertinoIcons",
+			"pos": 300,
+			"size": 24,
+			"key": "4xn8ot7v25"
+		},
+		{
+			"key": "4xn8ot7v25",
+			"layout": "cart",
+			"icon": "shopping_cart",
+			"fontFamily": "CupertinoIcons",
+			"label": null,
+			"pos": 400
+		},
+		{
+			"key": "4xn8ot7v25",
+			"layout": "profile",
+			"icon": "person",
+			"fontFamily": "CupertinoIcons",
+			"label": null,
+			"pos": 500,
+			"settings": ["wishlist",
+				"notifications",
+				"language",
+				"darkTheme",
+				"order",
+				"rating",
+				"privacy",
+				"about"
+			],
+			"background": null
+		}
+	],
 	"Drawer": {
-		"subDrawerItem": {},
-		"logo": "assets/images/logo.png",
-		"key": "g6o14aeyzg",
 		"items": [{
-			"type": "home",
-			"show": true
-		}, {
-			"type": "blog",
-			"show": false
-		}, {
-			"type": "login",
-			"show": false
-		}, {
-			"type": "category",
-			"show": true
-		}, {
-			"type": "categories",
-			"show": false
-		}, {
-			"type": "cart",
-			"show": false
-		}, {
-			"type": "profile",
-			"show": true
-		}, {
-			"type": "web",
-			"show": false
-		}]
+				"type": "home",
+				"show": true
+			},
+			{
+				"type": "blog",
+				"show": false
+			},
+			{
+				"type": "login",
+				"show": true
+			},
+			{
+				"type": "category",
+				"show": true
+			},
+			{
+				"type": "categories",
+				"show": false
+			},
+			{
+				"type": "cart",
+				"show": false
+			},
+			{
+				"type": "profile",
+				"show": true
+			},
+			{
+				"type": "web",
+				"show": false
+			}
+		],
+		"logo": "assets/images/logo.png",
+		"subDrawerItem": {},
+		"key": "lheuhpys7f"
 	},
 	"AppBar": {
+		"showOnScreens": ["home"],
 		"items": [{
-			"marginLeft": 16,
-			"type": "icon",
-			"fontSize": 16,
-			"radius": 18,
-			"backgroundColor": "0",
-			"paddingBottom": 4,
-			"textOpacity": 0.5,
-			"paddingRight": 4,
-			"pos": 100,
-			"marginBottom": 4,
-			"iconSize": 24,
-			"icon": "square_grid_2x2",
-			"size": 40,
-			"marginRight": 4,
-			"fontFamily": "CupertinoIcons",
-			"alignment": "center",
-			"paddingTop": 4,
-			"action": "menu",
-			"fontWeight": "400",
-			"marginTop": 4,
-			"key": "gbs354efgo",
-			"paddingLeft": 4
-		}, {
-			"paddingBottom": 4,
-			"alignment": "center",
-			"fontFamily": "CupertinoIcons",
-			"icon": "location",
-			"size": 20,
-			"marginRight": 4,
-			"marginBottom": 4,
-			"iconSize": 24,
-			"marginTop": 4,
-			"paddingTop": 4,
-			"key": "cm03ohengg",
-			"fontSize": 18,
-			"marginLeft": 4,
-			"fontWeight": "800",
-			"backgroundColor": "#00000000",
-			"textOpacity": 0.8,
-			"pos": 200,
-			"type": "text",
-			"paddingLeft": 4,
-			"radius": 16,
-			"action": "none",
-			"title": "Via Fashion",
-			"paddingRight": 4
-		}, {
-			"textOpacity": 0.5,
-			"icon": "shopping_cart",
-			"backgroundColor": "0",
-			"paddingBottom": 4,
-			"size": 40,
-			"fontSize": 16,
-			"radius": 18,
-			"key": "swrxx0zicb",
-			"fontWeight": "400",
-			"paddingTop": 4,
-			"action": "cart",
-			"alignment": "center",
-			"marginBottom": 4,
-			"iconSize": 24,
-			"type": "icon",
-			"fontFamily": "CupertinoIcons",
-			"pos": 400,
-			"marginTop": 4,
-			"paddingRight": 4,
-			"marginLeft": 4,
-			"paddingLeft": 4,
-			"marginRight": 16
-		}],
-		"showOnScreens": ["home", "category"]
+				"type": "icon",
+				"action": "menu",
+				"pos": 100,
+				"textOpacity": 0.5,
+				"alignment": "center",
+				"fontSize": 16.0,
+				"fontFamily": "CupertinoIcons",
+				"fontWeight": "400",
+				"icon": "equal",
+				"iconSize": 20.0,
+				"size": 48.0,
+				"radius": 100.0,
+				"backgroundColor": "a000000",
+				"marginLeft": 16.0,
+				"marginRight": 4.0,
+				"marginTop": 4.0,
+				"marginBottom": 4.0,
+				"paddingLeft": 4.0,
+				"paddingRight": 4.0,
+				"paddingTop": 4.0,
+				"paddingBottom": 4.0,
+				"key": "cca0ndpgfn"
+			},
+			{
+				"type": "search",
+				"action": "search",
+				"pos": 400,
+				"title": "Find your .....",
+				"textOpacity": 0.5,
+				"alignment": "center",
+				"fontSize": 16.0,
+				"fontFamily": "CupertinoIcons",
+				"fontWeight": "400",
+				"icon": "search",
+				"iconSize": 20.0,
+				"size": 40.0,
+				"radius": 100.0,
+				"backgroundColor": "a000000",
+				"marginLeft": 4.0,
+				"marginRight": 4.0,
+				"marginTop": 4.0,
+				"marginBottom": 4.0,
+				"paddingLeft": 16.0,
+				"paddingRight": 16.0,
+				"paddingTop": 4.0,
+				"paddingBottom": 4.0,
+				"key": "so73gdxxjt"
+			},
+			{
+				"type": "icon",
+				"action": "notification",
+				"pos": 500,
+				"textOpacity": 0.5,
+				"alignment": "center",
+				"fontSize": 16.0,
+				"fontFamily": "CupertinoIcons",
+				"fontWeight": "400",
+				"icon": "bell_solid",
+				"iconSize": 20.0,
+				"size": 48.0,
+				"radius": 100.0,
+				"backgroundColor": "a000000",
+				"marginLeft": 4.0,
+				"marginRight": 16.0,
+				"marginTop": 4.0,
+				"marginBottom": 4.0,
+				"paddingLeft": 4.0,
+				"paddingRight": 4.0,
+				"paddingTop": 4.0,
+				"paddingBottom": 4.0,
+				"key": "unk1xg9vr0"
+			}
+		]
 	}
 }
