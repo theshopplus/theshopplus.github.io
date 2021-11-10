@@ -42,18 +42,7 @@
 			"image": "https://theshopplus.github.io/v7373/cat-icons/earings.png",
 			"colors": ["#43506A", "#43506A"],
 			"originalColor": false
-		},
-			 {
-			"title": "Pendant",
-			"category": 1845,
-			"keepDefaultTitle": true,
-			"image": "https://theshopplus.github.io/v7373/cat-icons/pendant.png",
-			"colors": ["#43506A", "#43506A"],
-			"originalColor": false
-		}
-			 
-			 
-			 ],
+		}],
 		"line": false,
 		"marginLeft": 10.0,
 		"marginRight": 10.0,
