@@ -118,7 +118,7 @@
 		"ProductListLayout": "list",
 		"ShowChat": true,
 		"FontHeader": "ABeeZee",
-		"MainColor": "ffc72000",
+		"MainColor": "ffa11a00",
 		"TabBarConfig": {
 			"enable": true,
 			"isSafeArea": true,
