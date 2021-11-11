@@ -113,7 +113,12 @@
 		}
 	],
 	"Setting": {
+		"ProductDetail": "simpleType",
+		"StickyHeader": true,
+		"ProductListLayout": "list",
+		"ShowChat": true,
 		"FontHeader": "ABeeZee",
+		"MainColor": "ffc72000",
 		"TabBarConfig": {
 			"enable": true,
 			"isSafeArea": true,
@@ -162,22 +167,17 @@
 				"elevation": null,
 				"floatingType": "rectangle"
 			}
-		},
-		"ProductDetail": "simpleType",
-		"ProductListLayout": "list",
-		"MainColor": "#3FC1BE",
-		"StickyHeader": true,
-		"ShowChat": true
+		}
 	},
 	"TabBar": [{
 			"layout": "home",
 			"icon": "home",
 			"pos": 100,
 			"fontFamily": "CupertinoIcons",
-			"key": "4xn8ot7v25"
+			"key": "mtbj8cal96"
 		},
 		{
-			"key": "4xn8ot7v25",
+			"key": "mtbj8cal96",
 			"layout": "vendors",
 			"icon": "rectangle_grid_1x2",
 			"fontFamily": "CupertinoIcons",
@@ -246,10 +246,10 @@
 			"fontFamily": "CupertinoIcons",
 			"pos": 300,
 			"size": 24,
-			"key": "4xn8ot7v25"
+			"key": "mtbj8cal96"
 		},
 		{
-			"key": "4xn8ot7v25",
+			"key": "mtbj8cal96",
 			"layout": "cart",
 			"icon": "shopping_cart",
 			"fontFamily": "CupertinoIcons",
@@ -257,7 +257,7 @@
 			"pos": 400
 		},
 		{
-			"key": "4xn8ot7v25",
+			"key": "mtbj8cal96",
 			"layout": "profile",
 			"icon": "person",
 			"fontFamily": "CupertinoIcons",
