@@ -1,130 +1,111 @@
 {
 	"HorizonLayout": [{
-			"layout": "bannerImage",
-			"isSlider": true,
-			"marginTop": 0.0,
-			"marginBottom": 0.0,
-			"marginLeft": 0.0,
-			"marginRight": 0.0,
-			"height": 0.2,
-			"fit": "cover",
+			"layout": "category",
+			"type": "icon",
+			"wrap": false,
+			"showShortDescription": true,
+			"size": 1.0,
+			"radius": 50.0,
+			"spacing": 12.0,
 			"items": [{
-					"background": "https://user-images.githubusercontent.com/1459805/62924786-09b73580-bddb-11e9-94e1-a3bc0c00f35d.png",
-					"padding": 20,
-					"image": "https://user-images.githubusercontent.com/1459805/62924791-0a4fcc00-bddb-11e9-91e1-63e3018f6af6.png",
-					"category": null
+					"category": "1851",
+					"image": "https://i.imgur.com/dRmvek9.png",
+					"colors": ["#3CC2BF",
+						"#3CC2BF"
+					],
+					"originalColor": false,
+					"keepDefaultTitle": true,
+					"title": "Shirt"
 				},
 				{
-					"padding": 20,
-					"image": "https://user-images.githubusercontent.com/1459805/62924793-0ae86280-bddb-11e9-860e-737e42831e6f.png",
-					"background": "https://user-images.githubusercontent.com/1459805/62925388-73840f00-bddc-11e9-843b-8f0024836aaf.png",
-					"category": null
+					"category": "1867",
+					"image": "https://i.imgur.com/T86yMeu.png",
+					"colors": ["#3E6AB5",
+						"#3E6AB5"
+					],
+					"originalColor": false,
+					"keepDefaultTitle": true,
+					"title": "Saree"
 				},
 				{
-					"background": "https://user-images.githubusercontent.com/1459805/62924787-09b73580-bddb-11e9-9834-4be535cea5f5.png",
-					"image": "https://user-images.githubusercontent.com/1459805/62924792-0ae86280-bddb-11e9-8532-c9b0cffea5ae.png",
-					"padding": 20
+					"category": 1852,
+					"image": "https://i.imgur.com/BFtDJzh.png",
+					"colors": ["#53A2CC",
+						"#53A2CC"
+					],
+					"originalColor": false,
+					"keepDefaultTitle": true,
+					"title": "Jeans"
 				},
 				{
-					"image": "https://theshopplus.in/wp-content/uploads/2021/06/app_slider2-medium.jpg",
-					"background": "https://user-images.githubusercontent.com/1459805/62925389-741ca580-bddc-11e9-85ba-8ba380600883.png",
-					"padding": 20.0,
-					"category": null
+					"category": "1853",
+					"image": "https://i.imgur.com/fh5a2ge.png",
+					"colors": ["#53688A",
+						"#53688A"
+					],
+					"originalColor": false,
+					"keepDefaultTitle": true,
+					"title": "Tshirt"
+				},
+				{
+					"category": 1853,
+					"image": "https://i.imgur.com/MKBJIFA.png",
+					"colors": ["#ff607d8b"],
+					"originalColor": false,
+					"keepDefaultTitle": true,
+					"title": "Shoes"
 				}
 			],
-			"autoPlay": false,
-			"design": "default",
-			"radius": 20.0,
-			"intervalTime": 3,
-			"showBackground": true,
-			"upHeight": 207.73319251095265,
-			"isBlur": false
+			"line": false,
+			"marginLeft": 10.0,
+			"marginRight": 10.0,
+			"marginTop": 10.0,
+			"marginBottom": 10.0,
+			"paddingX": 0.0,
+			"paddingY": 0.0,
+			"marginX": 0.0,
+			"marginY": 0.0,
+			"hideTitle": false,
+			"noBackground": false
 		},
 		{
-			"layout": "bannerImage",
+			"showNumber": false,
+			"isSlider": false,
+			"design": "default",
 			"items": [{
-				"category": null,
-				"padding": 15,
-				"radius": 20,
-				"image": "https://user-images.githubusercontent.com/1459805/62924800-0cb22600-bddb-11e9-8aa0-44782a5cabf2.png"
-			}]
+				"image": "https://theshopplus.in/wp-content/uploads/2021/06/app_slider2.jpg",
+				"padding": 15
+			}],
+			"showBackGround": true,
+			"autoPlay": false,
+			"radius": 2,
+			"layout": "bannerImage"
 		},
 		{
 			"layout": "bannerImage",
 			"isSlider": false,
-			"marginTop": 0.0,
+			"marginTop": 10.0,
 			"marginBottom": 0.0,
-			"marginLeft": 0.0,
-			"marginRight": 0.0,
-			"height": 0.2,
+			"marginLeft": 10.0,
+			"marginRight": 10.0,
+			"height": 0.25,
 			"fit": "cover",
 			"items": [{
-				"image": "https://theshopplus.in/wp-content/uploads/2021/11/sale-on-banner-medium.png",
-				"radius": 20,
-				"padding": 15.0,
-				"category": null
-			}]
+					"image": "https://i.imgur.com/NBVvNgh.png",
+					"padding": 5.0,
+					"category": null
+				},
+				{
+					"image": "https://i.imgur.com/ssXM37N.png",
+					"padding": 5.0,
+					"category": null
+				}
+			]
 		},
 		{
-			"name": "Trending Collection",
-			"layout": "twoColumn",
-			"isSnapping": false,
-			"rows": 1,
-			"columns": 0,
-			"imageBoxfit": "cover",
-			"imageRatio": 1.2,
-			"hMargin": 0.0,
-			"vMargin": 0.0,
-			"hPadding": 0.0,
-			"vPadding": 0.0,
-			"showStockStatus": true,
-			"enableRating": true,
-			"hideTitle": false,
-			"hideStore": false,
-			"hidePrice": false,
-			"featured": false,
-			"showHeart": true,
-			"showCartButton": false,
-			"cartIconRadius": 9.0,
-			"showQuantity": false,
-			"showCartIconColor": false,
-			"showCartIcon": true,
-			"enableBottomAddToCart": true,
-			"category": "1394",
-			"tag": null
-		},
-		{
-			"rows": 1,
-			"enableBottomAddToCart": false,
-			"showCartIconColor": false,
-			"vMargin": 0,
-			"name": "New Collection",
-			"imageBoxfit": "cover",
-			"hMargin": 0,
-			"layout": "staggered",
-			"imageRatio": 1.2,
-			"isSnapping": false,
-			"hideTitle": false,
-			"category": "1394",
-			"columns": 0,
-			"tag": null,
-			"enableRating": true,
-			"showHeart": false,
-			"showStockStatus": true,
-			"hideStore": true,
-			"hidePrice": false,
-			"showCartButton": false,
-			"hPadding": 0,
-			"vPadding": 0,
-			"showQuantity": false,
-			"featured": false,
-			"cartIconRadius": 9,
-			"showCartIcon": true
-		},
-		{
-			"name": "Trending Mobiles",
+			"name": "Trending Products",
 			"layout": "threeColumn",
-			"isSnapping": false,
+			"isSnapping": true,
 			"rows": 1,
 			"columns": 0,
 			"imageBoxfit": "cover",
@@ -133,7 +114,7 @@
 			"vMargin": 0.0,
 			"hPadding": 0.0,
 			"vPadding": 0.0,
-			"showStockStatus": true,
+			"showStockStatus": false,
 			"enableRating": true,
 			"hideTitle": false,
 			"hideStore": true,
@@ -146,101 +127,101 @@
 			"showCartIconColor": false,
 			"showCartIcon": true,
 			"enableBottomAddToCart": false,
-			"category": "873",
+			"category": "1868",
 			"tag": null
 		}
 	],
 	"Setting": {
-		"MainColor": "ffa11a00",
-		"ProductListLayout": "list",
 		"StickyHeader": true,
+		"ProductDetail": "simpleType",
+		"ProductListLayout": "list",
+		"ShowChat": true,
 		"FontHeader": "ABeeZee",
+		"MainColor": "ffeca98b",
 		"TabBarConfig": {
+			"enable": true,
+			"isSafeArea": true,
+			"color": null,
+			"colorCart": null,
+			"colorIcon": "ff7a7b7f",
+			"colorActiveIcon": "fff2c3ae",
+			"iconSize": 22.968195913186673,
+			"indicatorStyle": "material",
+			"showFloatingClip": true,
 			"showFloating": true,
+			"radiusTopLeft": 0.0,
+			"radiusTopRight": 0.0,
+			"radiusBottomLeft": 0.0,
+			"radiusBottomRight": 0.0,
+			"paddingLeft": 0.0,
+			"paddingRight": 0.0,
+			"paddingBottom": 0.0,
+			"paddingTop": 0.0,
+			"marginTop": 0.0,
+			"marginBottom": 0.0,
+			"marginLeft": 0.0,
+			"marginRight": 0.0,
 			"TabBarIndicator": {
-				"distanceFromCenter": null,
-				"horizontalPadding": null,
-				"color": null,
+				"height": null,
+				"tabPosition": "bottom",
 				"topRightRadius": null,
+				"topLeftRadius": null,
+				"bottomRightRadius": null,
+				"bottomLeftRadius": null,
+				"color": "ffbd876f",
+				"horizontalPadding": null,
+				"verticalPadding": null,
 				"strokeWidth": null,
 				"radius": null,
-				"height": null,
-				"bottomLeftRadius": null,
-				"bottomRightRadius": null,
-				"paintingStyle": "fill",
-				"tabPosition": "bottom",
-				"verticalPadding": null,
-				"topLeftRadius": null
+				"distanceFromCenter": null,
+				"paintingStyle": "fill"
 			},
-			"iconSize": 22.968195913186673,
-			"paddingTop": 0,
-			"radiusBottomLeft": 0,
-			"marginTop": 0,
-			"isSafeArea": true,
-			"radiusTopLeft": 0,
-			"radiusTopRight": 0,
-			"colorCart": null,
-			"marginRight": 0,
-			"paddingBottom": 0,
-			"colorIcon": "ff7a7b7f",
-			"marginLeft": 0,
-			"paddingRight": 0,
 			"TabBarFloating": {
-				"location": "centerDocked",
 				"position": 2,
-				"color": "ff101160",
-				"floatingType": "rectangle",
 				"radius": null,
+				"color": "ff8e6553",
+				"location": "centerDocked",
+				"width": null,
 				"height": null,
 				"elevation": null,
-				"width": null
-			},
-			"enable": true,
-			"marginBottom": 0,
-			"paddingLeft": 0,
-			"color": null,
-			"showFloatingClip": false,
-			"colorActiveIcon": "ff991b2c",
-			"indicatorStyle": "none",
-			"radiusBottomRight": 0
-		},
-		"ProductDetail": "simpleType",
-		"ShowChat": true
+				"floatingType": "rectangle"
+			}
+		}
 	},
 	"TabBar": [{
-			"pos": 100,
-			"fontFamily": "CupertinoIcons",
 			"layout": "home",
+			"fontFamily": "CupertinoIcons",
 			"icon": "home",
-			"key": "n5vbimn984"
+			"pos": 100,
+			"key": "tpiyglwz6r"
 		},
 		{
-			"key": "n5vbimn984",
 			"layout": "category",
 			"icon": "rectangle_grid_1x2",
 			"fontFamily": "CupertinoIcons",
 			"label": null,
 			"pos": 200,
 			"categoryLayout": "card",
-			"categories": ["1394","1789","1790","873"
-				],
-			"images": null
+			"categories": ["1853", "1859","1860", "1861", "1862","1851", "1855", "1854", "1856", "1857","1852", "1863","1864","1865","1866","1867"
+			],
+			"images": null,
+			"key": "tpiyglwz6r"
 		},
 		{
-			"key": "n5vbimn984",
-			"layout": "cart",
-			"icon": "shopping_cart",
 			"fontFamily": "CupertinoIcons",
+			"layout": "cart",
+			"pos": 300,
 			"label": null,
-			"pos": 300
+			"icon": "shopping_cart",
+			"key": "tpiyglwz6r"
 		},
 		{
-			"key": "n5vbimn984",
+			"key": "tpiyglwz6r",
 			"layout": "profile",
 			"icon": "person",
 			"fontFamily": "CupertinoIcons",
 			"label": null,
-			"pos": 500,
+			"pos": 400,
 			"settings": ["wishlist",
 				"notifications",
 				"language",
@@ -248,15 +229,33 @@
 				"order",
 				"rating"
 			],
-			"background": "https://theshopplus.in/wp-content/uploads/2021/01/settings-medium.jpg"
+			"background": "https://theshopplus.in/wp-content/uploads/2021/01/settings-medium.jpg",
+			"subGeneralSetting": {
+				"title-58nknb8tey": {
+					"title": "Payment",
+					"enableDivider": true,
+					"fontSize": 14.0,
+					"titleColor": null,
+					"verticalPadding": {
+						"x": 15.0,
+						"y": 15.0
+					}
+				},
+				"post-54e1t0o95z": {
+					"pageId": 14657,
+					"icon": "account_balance_outlined",
+					"iconFontFamily": "MaterialIcons",
+					"title": "Bank Details"
+				}
+			}
 		},
 		{
-			"key": "m7qcgxtv2n",
+			"key": "tpiyglwz6r",
 			"layout": "static",
-			"icon": "forum_outlined",
-			"fontFamily": "MaterialIcons",
+			"icon": "paperplane",
+			"fontFamily": "CupertinoIcons",
 			"label": null,
-			"pos": 509,
+			"pos": 500,
 			"data": {
 				"id": 1,
 				"container": {
@@ -284,14 +283,15 @@
 						"text": "About US"
 					}
 				},
-				"subHeader": "One of the leading online store for woman's fashion.\r\n\r\nAn exclusive e-store for #stole & #shrug.\r\n\r\nVenture into the universe of design with viafashion.in , a one-stop online style entrance. Our comprehensive ladies’ wear is enlivened by worldwide runways, and on-pattern street style.Our group of purchasers work always to unite a curated alter of Indian and global high street collection, which guarantee adaptability and style.\r\n\r\nWith more than 150 new items propelling every week, we gives you an energizing accumulation to browse each time you visit us. viafashion.in is additionally the main Indian internet shopping website to team up on elite case accumulations with surely understood names in worldwide style.",
-				"description": "viaFashion"
+				"subHeader": "Welcome to Laxmi Mens Wear",
+				"description": "Easily swipe and browse through fashion clothing designs!"
 			}
 		}
 	],
 	"Drawer": {
-		"key": "yxmkrod014",
+		"key": "g6o14aeyzg",
 		"subDrawerItem": {},
+		"logo": "assets/images/logo.png",
 		"items": [{
 				"type": "home",
 				"show": true
@@ -324,8 +324,7 @@
 				"type": "web",
 				"show": false
 			}
-		],
-		"logo": "assets/images/logo.png"
+		]
 	},
 	"AppBar": {
 		"showOnScreens": ["home"],
@@ -338,11 +337,11 @@
 				"fontSize": 16,
 				"fontFamily": "CupertinoIcons",
 				"fontWeight": "400",
-				"icon": "equal",
-				"iconSize": 20,
-				"size": 48,
-				"radius": 100,
-				"backgroundColor": "a000000",
+				"icon": "square_grid_2x2",
+				"iconSize": 24,
+				"size": 40,
+				"radius": 18,
+				"backgroundColor": "0",
 				"marginLeft": 16,
 				"marginRight": 4,
 				"marginTop": 4,
@@ -351,7 +350,7 @@
 				"paddingRight": 4,
 				"paddingTop": 4,
 				"paddingBottom": 4,
-				"key": "cca0ndpgfn"
+				"key": "gbs354efgo"
 			},
 			{
 				"type": "text",
@@ -360,45 +359,47 @@
 				"title": "Laxmi Mens Wear",
 				"textOpacity": 0.8,
 				"alignment": "center",
-				"fontSize": 22.0,
+				"fontSize": 18,
 				"fontFamily": "CupertinoIcons",
-				"fontWeight": "700",
-				"icon": "person",
-				"iconSize": 24.0,
-				"size": 44.0,
-				"radius": 24.0,
-				"marginLeft": 4.0,
-				"marginRight": 4.0,
-				"marginTop": 4.0,
-				"marginBottom": 4.0,
-				"paddingLeft": 4.0,
-				"paddingRight": 4.0,
-				"paddingTop": 4.0,
-				"paddingBottom": 4.0,
-				"key": "8uhimbtsi1"
+				"fontWeight": "800",
+				"icon": "location",
+				"iconSize": 24,
+				"size": 20,
+				"radius": 16,
+				"backgroundColor": "#00000000",
+				"marginLeft": 4,
+				"marginRight": 4,
+				"marginTop": 4,
+				"marginBottom": 4,
+				"paddingLeft": 4,
+				"paddingRight": 4,
+				"paddingTop": 4,
+				"paddingBottom": 4,
+				"key": "45hv2rf4h0"
 			},
 			{
 				"type": "icon",
 				"action": "cart",
-				"pos": 300,
+				"pos": 400,
 				"textOpacity": 0.5,
 				"alignment": "center",
-				"fontSize": 16.0,
+				"fontSize": 16,
 				"fontFamily": "CupertinoIcons",
 				"fontWeight": "400",
 				"icon": "shopping_cart",
-				"iconSize": 24.0,
-				"size": 44.0,
-				"radius": 24.0,
-				"marginLeft": 4.0,
-				"marginRight": 4.0,
-				"marginTop": 4.0,
-				"marginBottom": 4.0,
-				"paddingLeft": 4.0,
-				"paddingRight": 4.0,
-				"paddingTop": 4.0,
-				"paddingBottom": 4.0,
-				"key": "vlxv4mhrct"
+				"iconSize": 24,
+				"size": 40,
+				"radius": 18,
+				"backgroundColor": "0",
+				"marginLeft": 4,
+				"marginRight": 16,
+				"marginTop": 4,
+				"marginBottom": 4,
+				"paddingLeft": 4,
+				"paddingRight": 4,
+				"paddingTop": 4,
+				"paddingBottom": 4,
+				"key": "swrxx0zicb"
 			}
 		]
 	}
