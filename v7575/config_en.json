@@ -48,12 +48,12 @@
 					"title": "Tshirt"
 				},
 				{
-					"category": 1853,
-					"image": "https://i.imgur.com/MKBJIFA.png",
+					"category": "1870",
+					"image": "https://i.imgur.com/RHDsCmD.png",
 					"colors": ["#ff607d8b"],
 					"originalColor": false,
 					"keepDefaultTitle": true,
-					"title": "Shoes"
+					"title": "Kids"
 				}
 			],
 			"line": false,
@@ -193,7 +193,7 @@
 			"fontFamily": "CupertinoIcons",
 			"icon": "home",
 			"pos": 100,
-			"key": "tpiyglwz6r"
+			"key": "s6muk87cgg"
 		},
 		{
 			"layout": "category",
@@ -202,10 +202,27 @@
 			"label": null,
 			"pos": 200,
 			"categoryLayout": "card",
-			"categories": ["1853", "1859","1860", "1861", "1862","1851", "1855", "1854", "1856", "1857","1852", "1863","1864","1865","1866","1867"
+			"categories": ["1853",
+				"1859",
+				"1860",
+				"1861",
+				"1862",
+				"1851",
+				"1855",
+				"1854",
+				"1856",
+				"1857",
+				"1852",
+				"1863",
+				"1864",
+				"1865",
+				"1866",
+				"1867",
+				 "1870",
+				  "1871"
 			],
 			"images": null,
-			"key": "tpiyglwz6r"
+			"key": "s6muk87cgg"
 		},
 		{
 			"fontFamily": "CupertinoIcons",
@@ -213,10 +230,10 @@
 			"pos": 300,
 			"label": null,
 			"icon": "shopping_cart",
-			"key": "tpiyglwz6r"
+			"key": "s6muk87cgg"
 		},
 		{
-			"key": "tpiyglwz6r",
+			"key": "s6muk87cgg",
 			"layout": "profile",
 			"icon": "person",
 			"fontFamily": "CupertinoIcons",
@@ -250,7 +267,7 @@
 			}
 		},
 		{
-			"key": "tpiyglwz6r",
+			"key": "s6muk87cgg",
 			"layout": "static",
 			"icon": "paperplane",
 			"fontFamily": "CupertinoIcons",
