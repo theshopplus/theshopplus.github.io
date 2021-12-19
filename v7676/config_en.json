@@ -1,111 +1,155 @@
 {
 	"HorizonLayout": [{
+			"layout": "logo",
+			"showMenu": true,
+			"showSearch": false,
+			"showLogo": false,
+			"showCart": true,
+			"showNotification": false,
+			"menuIcon": {
+				"name": "menu_rounded",
+				"fontFamily": "MaterialIcons"
+			},
+			"name": "A2z Purse"
+		},
+		{
+			"layout": "bannerImage",
+			"isSlider": true,
+			"marginTop": 0.0,
+			"marginBottom": 0.0,
+			"marginLeft": 0.0,
+			"marginRight": 0.0,
+			"height": 0.3,
+			"fit": "fill",
+			"items": [{
+					"padding": 0.0,
+					"image": "https://trello.com/1/cards/61bf9283dcfbbd7d5667a4d9/attachments/61bf92863e22958173474620/download/1.png",
+					"category": null
+				},
+				{
+					"padding": 0.0,
+					"image": "https://trello.com/1/cards/61bf9283dcfbbd7d5667a4d9/attachments/61bf929b1810433b7169b57f/download/2.png",
+					"category": null
+				},
+				{
+					"padding": 0.0,
+					"image": "https://trello.com/1/cards/61bf9283dcfbbd7d5667a4d9/attachments/61bf92c1c335407cb1d7a156/download/3.png",
+					"category": null
+				}
+			],
+			"autoPlay": true,
+			"design": "default",
+			"radius": 0.0,
+			"intervalTime": 5
+		},
+		{
+			"title": "Categories",
+			"showSearch": false,
+			"hideHeader": false,
+			"isSafeArea": false,
+			"fontWeight": "400",
+			"height": 50.0,
+			"fontSize": 25.0,
+			"textOpacity": 1.0,
+			"marginLeft": 16.0,
+			"marginRight": 0.0,
+			"marginTop": 0.0,
+			"marginBottom": 0.0,
+			"layout": "header_text",
+			"textColor": null
+		},
+		{
 			"layout": "category",
-			"type": "icon",
+			"type": "image",
 			"wrap": false,
 			"showShortDescription": true,
 			"size": 1.0,
-			"radius": 50.0,
+			"radius": 0.0,
 			"spacing": 12.0,
 			"items": [{
-					"category": "1851",
-					"image": "https://i.imgur.com/dRmvek9.png",
-					"colors": ["#3CC2BF",
-						"#3CC2BF"
-					],
+					"category": "1853",
+					"image": "https://i.imgur.com/LjWcIo4.png",
+					"showText": false,
 					"originalColor": false,
-					"keepDefaultTitle": true,
-					"title": "Shirt"
-				},
-				{
-					"category": "1867",
-					"image": "https://i.imgur.com/T86yMeu.png",
-					"colors": ["#3E6AB5",
-						"#3E6AB5"
-					],
-					"originalColor": false,
-					"keepDefaultTitle": true,
-					"title": "Saree"
-				},
-				{
-					"category": 1852,
-					"image": "https://i.imgur.com/BFtDJzh.png",
-					"colors": ["#53A2CC",
-						"#53A2CC"
-					],
-					"originalColor": false,
-					"keepDefaultTitle": true,
-					"title": "Jeans"
+					"keepDefaultTitle": false
 				},
 				{
 					"category": "1853",
-					"image": "https://i.imgur.com/fh5a2ge.png",
-					"colors": ["#53688A",
-						"#53688A"
-					],
+					"image": "https://i.imgur.com/Rk4I672.png",
+					"showText": false,
 					"originalColor": false,
-					"keepDefaultTitle": true,
-					"title": "Tshirt"
+					"keepDefaultTitle": false
 				},
 				{
-					"category": "1870",
-					"image": "https://i.imgur.com/RHDsCmD.png",
-					"colors": ["#ff607d8b"],
+					"category": "1853",
+					"image": "https://i.imgur.com/cu5nMRb.png",
+					"showText": false,
 					"originalColor": false,
-					"keepDefaultTitle": true,
-					"title": "Kids"
+					"keepDefaultTitle": false
+				},
+				{
+					"category": "1859",
+					"image": "https://i.imgur.com/W8YEjxG.png",
+					"showText": false,
+					"originalColor": false,
+					"keepDefaultTitle": false
+				},
+				{
+					"category": "1853",
+					"image": "https://i.imgur.com/Joxv46N.png",
+					"showText": false,
+					"originalColor": true,
+					"keepDefaultTitle": false
 				}
 			],
 			"line": false,
 			"marginLeft": 10.0,
 			"marginRight": 10.0,
-			"marginTop": 10.0,
+			"marginTop": 0.0,
 			"marginBottom": 10.0,
 			"paddingX": 0.0,
 			"paddingY": 0.0,
 			"marginX": 0.0,
 			"marginY": 0.0,
 			"hideTitle": false,
-			"noBackground": false
-		},
-		{
-			"showNumber": false,
-			"isSlider": false,
-			"design": "default",
-			"items": [{
-				"image": "https://theshopplus.in/wp-content/uploads/2021/06/app_slider2.jpg",
-				"padding": 15
-			}],
-			"showBackGround": true,
-			"autoPlay": false,
-			"radius": 2,
-			"layout": "bannerImage"
+			"noBackground": false,
+			"boxShadow": {
+				"colorOpacity": 0.35
+			},
+			"itemSize": {
+				"width": 418.37008843613586,
+				"height": 600
+			}
 		},
 		{
 			"layout": "bannerImage",
-			"isSlider": false,
-			"marginTop": 10.0,
+			"isSlider": true,
+			"marginTop": 0.0,
 			"marginBottom": 0.0,
-			"marginLeft": 10.0,
-			"marginRight": 10.0,
-			"height": 0.25,
-			"fit": "cover",
+			"marginLeft": 0.0,
+			"marginRight": 0.0,
+			"height": 0.35,
+			"fit": "fitHeight",
 			"items": [{
-					"image": "https://i.imgur.com/NBVvNgh.png",
-					"padding": 5.0,
+					"padding": 1.8,
+					"image": "https://i.imgur.com/cHURuEO.png",
 					"category": null
 				},
 				{
-					"image": "https://i.imgur.com/ssXM37N.png",
-					"padding": 5.0,
+					"padding": 1.8,
+					"image": "https://i.imgur.com/0SckAW5.png",
 					"category": null
 				}
-			]
+			],
+			"autoPlay": true,
+			"design": "stack",
+			"radius": 10.0,
+			"intervalTime": 3
 		},
 		{
-			"name": "Trending Products",
-			"layout": "threeColumn",
-			"isSnapping": true,
+			"name": "Tending Products",
+			"layout": "largeCard",
+			"isSnapping": false,
 			"rows": 1,
 			"columns": 0,
 			"imageBoxfit": "cover",
@@ -114,10 +158,10 @@
 			"vMargin": 0.0,
 			"hPadding": 0.0,
 			"vPadding": 0.0,
-			"showStockStatus": false,
+			"showStockStatus": true,
 			"enableRating": true,
 			"hideTitle": false,
-			"hideStore": true,
+			"hideStore": false,
 			"hidePrice": false,
 			"featured": false,
 			"showHeart": false,
@@ -127,25 +171,26 @@
 			"showCartIconColor": false,
 			"showCartIcon": true,
 			"enableBottomAddToCart": false,
-			"category": "1868",
+			"imageWidth": 174.41438673682526,
+			"category": "1853",
 			"tag": null
 		}
 	],
 	"Setting": {
 		"StickyHeader": true,
-		"ProductDetail": "simpleType",
+		"ProductDetail": "halfSizeImageType",
 		"ProductListLayout": "list",
 		"ShowChat": true,
-		"FontHeader": "ABeeZee",
-		"MainColor": "ffeca98b",
+		"FontHeader": "Roboto",
+		"MainColor": "ffbf5863",
 		"TabBarConfig": {
 			"enable": true,
 			"isSafeArea": true,
 			"color": null,
-			"colorCart": null,
+			"colorCart": "fffe2060",
 			"colorIcon": "ff7a7b7f",
-			"colorActiveIcon": "fff2c3ae",
-			"iconSize": 22.968195913186673,
+			"colorActiveIcon": "ffd28a92",
+			"iconSize": 23.025228226675463,
 			"indicatorStyle": "material",
 			"showFloatingClip": true,
 			"showFloating": true,
@@ -163,12 +208,12 @@
 			"marginRight": 0.0,
 			"TabBarIndicator": {
 				"height": null,
-				"tabPosition": "bottom",
+				"tabPosition": "top",
 				"topRightRadius": null,
 				"topLeftRadius": null,
-				"bottomRightRadius": null,
-				"bottomLeftRadius": null,
-				"color": "ffbd876f",
+				"bottomRightRadius": 9.988863169703269,
+				"bottomLeftRadius": 9.980371609191021,
+				"color": "ffac4f59",
 				"horizontalPadding": null,
 				"verticalPadding": null,
 				"strokeWidth": null,
@@ -179,61 +224,45 @@
 			"TabBarFloating": {
 				"position": 2,
 				"radius": null,
-				"color": "ff8e6553",
+				"color": "ff99464f",
 				"location": "centerDocked",
 				"width": null,
 				"height": null,
-				"elevation": null,
+				"elevation": 2.005172228538149,
 				"floatingType": "rectangle"
 			}
-		}
+		},
+		"FontFamily": "Roboto"
 	},
 	"TabBar": [{
 			"layout": "home",
-			"fontFamily": "CupertinoIcons",
 			"icon": "home",
+			"fontFamily": "CupertinoIcons",
+			"label": null,
 			"pos": 100,
-			"key": "s6muk87cgg"
+			"key": "ssdel5izqy"
 		},
 		{
+			"categoryLayout": "card",
+			"categories": null,
 			"layout": "category",
 			"icon": "rectangle_grid_1x2",
-			"fontFamily": "CupertinoIcons",
-			"label": null,
 			"pos": 200,
-			"categoryLayout": "card",
-			"categories": ["1853",
-				"1859",
-				"1860",
-				"1861",
-				"1862",
-				"1851",
-				"1855",
-				"1854",
-				"1856",
-				"1857",
-				"1852",
-				"1863",
-				"1864",
-				"1865",
-				"1866",
-				"1867",
-				 "1870",
-				  "1871"
-			],
-			"images": null,
-			"key": "s6muk87cgg"
-		},
-		{
-			"fontFamily": "CupertinoIcons",
-			"layout": "cart",
-			"pos": 300,
 			"label": null,
-			"icon": "shopping_cart",
-			"key": "s6muk87cgg"
+			"images": null,
+			"fontFamily": "CupertinoIcons",
+			"key": "ssdel5izqy"
 		},
 		{
-			"key": "s6muk87cgg",
+			"key": "ssdel5izqy",
+			"layout": "cart",
+			"icon": "shopping_cart",
+			"fontFamily": "CupertinoIcons",
+			"label": null,
+			"pos": 300
+		},
+		{
+			"key": "ssdel5izqy",
 			"layout": "profile",
 			"icon": "person",
 			"fontFamily": "CupertinoIcons",
@@ -246,33 +275,15 @@
 				"order",
 				"rating"
 			],
-			"background": "https://theshopplus.in/wp-content/uploads/2021/01/settings-medium.jpg",
-			"subGeneralSetting": {
-				"title-58nknb8tey": {
-					"title": "Payment",
-					"enableDivider": true,
-					"fontSize": 14.0,
-					"titleColor": null,
-					"verticalPadding": {
-						"x": 15.0,
-						"y": 15.0
-					}
-				},
-				"post-54e1t0o95z": {
-					"pageId": 14657,
-					"icon": "account_balance_outlined",
-					"iconFontFamily": "MaterialIcons",
-					"title": "Bank Details"
-				}
-			}
+			"background": "https://theshopplus.in/wp-content/uploads/2021/01/settings-medium.jpg"
 		},
 		{
-			"key": "s6muk87cgg",
+			"key": "ng0ltptwhy",
 			"layout": "static",
-			"icon": "paperplane",
+			"icon": "book",
 			"fontFamily": "CupertinoIcons",
 			"label": null,
-			"pos": 500,
+			"pos": 402,
 			"data": {
 				"id": 1,
 				"container": {
@@ -280,7 +291,7 @@
 					"image": {
 						"height": 0.5,
 						"width": 1.0,
-						"url": "https://spic.one/wp-content/uploads/2018/08/e052b0077cff56f03b0c.png",
+						"url": "https://i.imgur.com/SY5hF77.png",
 						"align": {
 							"x": 1.0,
 							"y": 1.0
@@ -300,13 +311,13 @@
 						"text": "About US"
 					}
 				},
-				"subHeader": "Welcome to Laxmi Mens Wear",
-				"description": "Easily swipe and browse through fashion clothing designs!"
+				"subHeader": "Easily swipe and browse through fashion Accessories & designs!\nExplore wide range of trending collections.\nWe got you limited edition items.",
+				"description": ""
 			}
 		}
 	],
 	"Drawer": {
-		"key": "g6o14aeyzg",
+		"key": "2vstj904fu",
 		"subDrawerItem": {},
 		"logo": "assets/images/logo.png",
 		"items": [{
@@ -319,7 +330,7 @@
 			},
 			{
 				"type": "login",
-				"show": false
+				"show": true
 			},
 			{
 				"type": "category",
@@ -351,48 +362,47 @@
 				"pos": 100,
 				"textOpacity": 0.5,
 				"alignment": "center",
-				"fontSize": 16,
+				"fontSize": 16.0,
 				"fontFamily": "CupertinoIcons",
 				"fontWeight": "400",
-				"icon": "square_grid_2x2",
-				"iconSize": 24,
-				"size": 40,
-				"radius": 18,
-				"backgroundColor": "0",
-				"marginLeft": 16,
-				"marginRight": 4,
-				"marginTop": 4,
-				"marginBottom": 4,
-				"paddingLeft": 4,
-				"paddingRight": 4,
-				"paddingTop": 4,
-				"paddingBottom": 4,
-				"key": "gbs354efgo"
+				"icon": "equal",
+				"iconSize": 20.0,
+				"size": 40.0,
+				"radius": 20.0,
+				"backgroundColor": "a000000",
+				"marginLeft": 10.0,
+				"marginRight": 4.0,
+				"marginTop": 4.0,
+				"marginBottom": 4.0,
+				"paddingLeft": 4.0,
+				"paddingRight": 4.0,
+				"paddingTop": 4.0,
+				"paddingBottom": 4.0,
+				"key": "13fu44vzhd"
 			},
 			{
 				"type": "text",
 				"action": "none",
-				"pos": 200,
+				"pos": 400,
 				"title": "A2z Purse",
-				"textOpacity": 0.8,
+				"textOpacity": 0.6,
 				"alignment": "center",
-				"fontSize": 18,
+				"fontSize": 23.0,
 				"fontFamily": "CupertinoIcons",
-				"fontWeight": "800",
-				"icon": "location",
-				"iconSize": 24,
-				"size": 20,
-				"radius": 16,
-				"backgroundColor": "#00000000",
-				"marginLeft": 4,
-				"marginRight": 4,
-				"marginTop": 4,
-				"marginBottom": 4,
-				"paddingLeft": 4,
-				"paddingRight": 4,
-				"paddingTop": 4,
-				"paddingBottom": 4,
-				"key": "45hv2rf4h0"
+				"fontWeight": "700",
+				"icon": "person",
+				"iconSize": 24.0,
+				"size": 44.0,
+				"radius": 41.0,
+				"marginLeft": 4.0,
+				"marginRight": 4.0,
+				"marginTop": 4.0,
+				"marginBottom": 4.0,
+				"paddingLeft": 4.0,
+				"paddingRight": 4.0,
+				"paddingTop": 4.0,
+				"paddingBottom": 4.0,
+				"key": "16ezmitub0"
 			},
 			{
 				"type": "icon",
@@ -400,23 +410,22 @@
 				"pos": 400,
 				"textOpacity": 0.5,
 				"alignment": "center",
-				"fontSize": 16,
+				"fontSize": 16.0,
 				"fontFamily": "CupertinoIcons",
 				"fontWeight": "400",
 				"icon": "shopping_cart",
-				"iconSize": 24,
-				"size": 40,
-				"radius": 18,
-				"backgroundColor": "0",
-				"marginLeft": 4,
-				"marginRight": 16,
-				"marginTop": 4,
-				"marginBottom": 4,
-				"paddingLeft": 4,
-				"paddingRight": 4,
-				"paddingTop": 4,
-				"paddingBottom": 4,
-				"key": "swrxx0zicb"
+				"iconSize": 24.0,
+				"size": 44.0,
+				"radius": 24.0,
+				"marginLeft": 4.0,
+				"marginRight": 4.0,
+				"marginTop": 4.0,
+				"marginBottom": 4.0,
+				"paddingLeft": 4.0,
+				"paddingRight": 4.0,
+				"paddingTop": 4.0,
+				"paddingBottom": 4.0,
+				"key": "y7g62m2g4n"
 			}
 		]
 	}
