@@ -67,35 +67,35 @@
 			"radius": 0.0,
 			"spacing": 12.0,
 			"items": [{
-					"category": "1853",
+					"category": "1885",
 					"image": "https://i.imgur.com/LjWcIo4.png",
 					"showText": false,
 					"originalColor": false,
 					"keepDefaultTitle": false
 				},
 				{
-					"category": "1853",
+					"category": "1882",
 					"image": "https://i.imgur.com/Rk4I672.png",
 					"showText": false,
 					"originalColor": false,
 					"keepDefaultTitle": false
 				},
 				{
-					"category": "1853",
+					"category": "1884",
 					"image": "https://i.imgur.com/cu5nMRb.png",
 					"showText": false,
 					"originalColor": false,
 					"keepDefaultTitle": false
 				},
 				{
-					"category": "1859",
+					"category": "1881",
 					"image": "https://i.imgur.com/W8YEjxG.png",
 					"showText": false,
 					"originalColor": false,
 					"keepDefaultTitle": false
 				},
 				{
-					"category": "1853",
+					"category": "1883",
 					"image": "https://i.imgur.com/Joxv46N.png",
 					"showText": false,
 					"originalColor": true,
@@ -172,7 +172,7 @@
 			"showCartIcon": true,
 			"enableBottomAddToCart": false,
 			"imageWidth": 174.41438673682526,
-			"category": "1853",
+			"category": "1886",
 			"tag": null
 		}
 	],
@@ -244,7 +244,7 @@
 		},
 		{
 			"categoryLayout": "card",
-			"categories": null,
+			"categories": ["1881", "1882", "1883", "1884", "1885"],
 			"layout": "category",
 			"icon": "rectangle_grid_1x2",
 			"pos": 200,
