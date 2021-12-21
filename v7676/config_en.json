@@ -1,18 +1,5 @@
 {
 	"HorizonLayout": [{
-			"layout": "logo",
-			"showMenu": true,
-			"showSearch": false,
-			"showLogo": false,
-			"showCart": true,
-			"showNotification": false,
-			"menuIcon": {
-				"name": "menu_rounded",
-				"fontFamily": "MaterialIcons"
-			},
-			"name": "A2z Purse"
-		},
-		{
 			"layout": "bannerImage",
 			"isSlider": true,
 			"marginTop": 0.0,
@@ -173,16 +160,12 @@
 			"enableBottomAddToCart": false,
 			"imageWidth": 174.41438673682526,
 			"category": "1886",
+			"onSale": true,
 			"tag": null
 		}
 	],
 	"Setting": {
-		"StickyHeader": true,
-		"ProductDetail": "halfSizeImageType",
 		"ProductListLayout": "list",
-		"ShowChat": true,
-		"FontHeader": "Roboto",
-		"MainColor": "ffbf5863",
 		"TabBarConfig": {
 			"enable": true,
 			"isSafeArea": true,
@@ -232,6 +215,11 @@
 				"floatingType": "rectangle"
 			}
 		},
+		"ShowChat": true,
+		"StickyHeader": true,
+		"FontHeader": "Roboto",
+		"ProductDetail": "halfSizeImageType",
+		"MainColor": "ffbf5863",
 		"FontFamily": "Roboto"
 	},
 	"TabBar": [{
@@ -240,21 +228,26 @@
 			"fontFamily": "CupertinoIcons",
 			"label": null,
 			"pos": 100,
-			"key": "ssdel5izqy"
+			"key": "ehxp4fnx7n"
 		},
 		{
 			"categoryLayout": "card",
-			"categories": ["1881", "1882", "1883", "1884", "1885"],
+			"categories": ["1881",
+				"1882",
+				"1883",
+				"1884",
+				"1885"
+			],
 			"layout": "category",
 			"icon": "rectangle_grid_1x2",
 			"pos": 200,
 			"label": null,
 			"images": null,
 			"fontFamily": "CupertinoIcons",
-			"key": "ssdel5izqy"
+			"key": "ehxp4fnx7n"
 		},
 		{
-			"key": "ssdel5izqy",
+			"key": "ehxp4fnx7n",
 			"layout": "cart",
 			"icon": "shopping_cart",
 			"fontFamily": "CupertinoIcons",
@@ -262,7 +255,7 @@
 			"pos": 300
 		},
 		{
-			"key": "ssdel5izqy",
+			"key": "ehxp4fnx7n",
 			"layout": "profile",
 			"icon": "person",
 			"fontFamily": "CupertinoIcons",
@@ -278,12 +271,12 @@
 			"background": "https://theshopplus.in/wp-content/uploads/2021/01/settings-medium.jpg"
 		},
 		{
-			"key": "ng0ltptwhy",
+			"key": "ehxp4fnx7n",
 			"layout": "static",
 			"icon": "book",
 			"fontFamily": "CupertinoIcons",
 			"label": null,
-			"pos": 402,
+			"pos": 500,
 			"data": {
 				"id": 1,
 				"container": {
@@ -317,9 +310,9 @@
 		}
 	],
 	"Drawer": {
-		"key": "2vstj904fu",
-		"subDrawerItem": {},
 		"logo": "assets/images/logo.png",
+		"subDrawerItem": {},
+		"key": "2vstj904fu",
 		"items": [{
 				"type": "home",
 				"show": true
@@ -385,7 +378,7 @@
 				"action": "none",
 				"pos": 400,
 				"title": "A2z Purse",
-				"textOpacity": 0.6,
+				"textOpacity": 0.7,
 				"alignment": "center",
 				"fontSize": 23.0,
 				"fontFamily": "CupertinoIcons",
@@ -402,7 +395,7 @@
 				"paddingRight": 4.0,
 				"paddingTop": 4.0,
 				"paddingBottom": 4.0,
-				"key": "16ezmitub0"
+				"key": "5mynt339jy"
 			},
 			{
 				"type": "icon",
