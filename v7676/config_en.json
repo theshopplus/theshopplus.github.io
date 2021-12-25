@@ -151,7 +151,7 @@
 			"hideStore": false,
 			"hidePrice": false,
 			"featured": false,
-			"showHeart": false,
+			"showHeart": true,
 			"showCartButton": false,
 			"cartIconRadius": 9.0,
 			"showQuantity": false,
@@ -160,7 +160,7 @@
 			"enableBottomAddToCart": false,
 			"imageWidth": 174.41438673682526,
 			"category": "1886",
-			"onSale": true,
+			"onSale": false,
 			"tag": null
 		}
 	],
