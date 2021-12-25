@@ -160,12 +160,15 @@
 			"enableBottomAddToCart": false,
 			"imageWidth": 174.41438673682526,
 			"category": "1886",
-			"onSale": false,
 			"tag": null
 		}
 	],
 	"Setting": {
-		"ProductListLayout": "list",
+		"ProductDetail": "halfSizeImageType",
+		"StickyHeader": true,
+		"FontFamily": "Roboto",
+		"ShowChat": true,
+		"FontHeader": "Roboto",
 		"TabBarConfig": {
 			"enable": true,
 			"isSafeArea": true,
@@ -215,12 +218,8 @@
 				"floatingType": "rectangle"
 			}
 		},
-		"ShowChat": true,
-		"StickyHeader": true,
-		"FontHeader": "Roboto",
-		"ProductDetail": "halfSizeImageType",
 		"MainColor": "ffbf5863",
-		"FontFamily": "Roboto"
+		"ProductListLayout": "list"
 	},
 	"TabBar": [{
 			"layout": "home",
@@ -228,7 +227,7 @@
 			"fontFamily": "CupertinoIcons",
 			"label": null,
 			"pos": 100,
-			"key": "ehxp4fnx7n"
+			"key": "fac1m7oecw"
 		},
 		{
 			"categoryLayout": "card",
@@ -244,10 +243,10 @@
 			"label": null,
 			"images": null,
 			"fontFamily": "CupertinoIcons",
-			"key": "ehxp4fnx7n"
+			"key": "fac1m7oecw"
 		},
 		{
-			"key": "ehxp4fnx7n",
+			"key": "fac1m7oecw",
 			"layout": "cart",
 			"icon": "shopping_cart",
 			"fontFamily": "CupertinoIcons",
@@ -255,7 +254,7 @@
 			"pos": 300
 		},
 		{
-			"key": "ehxp4fnx7n",
+			"key": "fac1m7oecw",
 			"layout": "profile",
 			"icon": "person",
 			"fontFamily": "CupertinoIcons",
@@ -271,7 +270,7 @@
 			"background": "https://theshopplus.in/wp-content/uploads/2021/01/settings-medium.jpg"
 		},
 		{
-			"key": "ehxp4fnx7n",
+			"key": "fac1m7oecw",
 			"layout": "static",
 			"icon": "book",
 			"fontFamily": "CupertinoIcons",
@@ -310,9 +309,6 @@
 		}
 	],
 	"Drawer": {
-		"logo": "assets/images/logo.png",
-		"subDrawerItem": {},
-		"key": "2vstj904fu",
 		"items": [{
 				"type": "home",
 				"show": true
@@ -345,7 +341,10 @@
 				"type": "web",
 				"show": false
 			}
-		]
+		],
+		"subDrawerItem": {},
+		"logo": "assets/images/logo.png",
+		"key": "2vstj904fu"
 	},
 	"AppBar": {
 		"showOnScreens": ["home"],
