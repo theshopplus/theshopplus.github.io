@@ -80,13 +80,6 @@
 					"showText": false,
 					"originalColor": false,
 					"keepDefaultTitle": false
-				},
-				{
-					"category": "1883",
-					"image": "https://i.imgur.com/Joxv46N.png",
-					"showText": false,
-					"originalColor": true,
-					"keepDefaultTitle": false
 				}
 			],
 			"line": false,
@@ -164,11 +157,7 @@
 		}
 	],
 	"Setting": {
-		"ProductDetail": "halfSizeImageType",
-		"StickyHeader": true,
-		"FontFamily": "Roboto",
-		"ShowChat": true,
-		"FontHeader": "Roboto",
+		"MainColor": "ffbf5863",
 		"TabBarConfig": {
 			"enable": true,
 			"isSafeArea": true,
@@ -218,8 +207,12 @@
 				"floatingType": "rectangle"
 			}
 		},
-		"MainColor": "ffbf5863",
-		"ProductListLayout": "list"
+		"ShowChat": true,
+		"ProductDetail": "halfSizeImageType",
+		"FontFamily": "Roboto",
+		"FontHeader": "Roboto",
+		"ProductListLayout": "list",
+		"StickyHeader": true
 	},
 	"TabBar": [{
 			"layout": "home",
@@ -227,7 +220,7 @@
 			"fontFamily": "CupertinoIcons",
 			"label": null,
 			"pos": 100,
-			"key": "fac1m7oecw"
+			"key": "f7zi5dbxp8"
 		},
 		{
 			"categoryLayout": "card",
@@ -243,10 +236,10 @@
 			"label": null,
 			"images": null,
 			"fontFamily": "CupertinoIcons",
-			"key": "fac1m7oecw"
+			"key": "f7zi5dbxp8"
 		},
 		{
-			"key": "fac1m7oecw",
+			"key": "f7zi5dbxp8",
 			"layout": "cart",
 			"icon": "shopping_cart",
 			"fontFamily": "CupertinoIcons",
@@ -254,7 +247,7 @@
 			"pos": 300
 		},
 		{
-			"key": "fac1m7oecw",
+			"key": "f7zi5dbxp8",
 			"layout": "profile",
 			"icon": "person",
 			"fontFamily": "CupertinoIcons",
@@ -270,7 +263,7 @@
 			"background": "https://theshopplus.in/wp-content/uploads/2021/01/settings-medium.jpg"
 		},
 		{
-			"key": "fac1m7oecw",
+			"key": "f7zi5dbxp8",
 			"layout": "static",
 			"icon": "book",
 			"fontFamily": "CupertinoIcons",
@@ -342,9 +335,9 @@
 				"show": false
 			}
 		],
+		"key": "2vstj904fu",
 		"subDrawerItem": {},
-		"logo": "assets/images/logo.png",
-		"key": "2vstj904fu"
+		"logo": "assets/images/logo.png"
 	},
 	"AppBar": {
 		"showOnScreens": ["home"],
